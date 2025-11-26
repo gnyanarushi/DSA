@@ -1,3 +1,5 @@
+package rishi;
+
 import java.util.Scanner;
 
 public class EvenOrOdd {
