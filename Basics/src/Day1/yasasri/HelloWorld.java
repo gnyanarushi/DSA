@@ -1,4 +1,4 @@
-package yasasri;
+package Day1.yasasri;
 
 public class HelloWorld {
 

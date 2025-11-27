@@ -5,7 +5,7 @@ public class ArrayListClassInJava {
     public static void main(String[] args) {
 
         ArrayList<String> arr = new ArrayList<>();
-        arr.add("rishi");
+        arr.add("Day1.rishi");
         arr.add("ganesh");
         arr.add("yaswanth");
         arr.add(1 , "karthik");
@@ -13,7 +13,7 @@ public class ArrayListClassInJava {
         System.out.println(arr);
         ArrayList<String> newArr = new ArrayList<>();
         newArr.add("ganesh");
-        newArr.add("rishi");
+        newArr.add("Day1.rishi");
         arr.removeAll(newArr);
 
         System.out.println(arr);

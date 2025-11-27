@@ -1,4 +1,4 @@
-package rishi;
+package Day1.rishi;
 
 import java.util.Scanner;
 
