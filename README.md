@@ -1,7 +1,7 @@
 #    DSA
 ## Data Structures and Algorithms 
 
-### Day 1 :  first five problems 
+### Day 1 :  
     - hello world 
     - adding of two numbers 
     - even or odd number 
