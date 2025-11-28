@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$/kunalkuswaha-java/practice" vcs="Git" />
+=======
+>>>>>>> a52c302cd0073c968af676a943d2d07421b99ef3
   </component>
 </project>
