@@ -8,12 +8,13 @@ public class SwapTwoNumbers {
 
 
         System.out.print("Enter first  number : ");
-        int a = in.nextInt();
+        Integer a = in.nextInt();
         System.out.print("Enter second number : ");
-        int b = in.nextInt();
+        Integer  b = in.nextInt();
+        System.out.println( a  + " " + b );
 
+            swap(a , b ) ;
 
-        swap(a , b );
 
         System.out.println( a  + " " + b );
 
@@ -21,7 +22,7 @@ public class SwapTwoNumbers {
 
     }
 
-    static  void swap(int a , int b ) {
+      static void swap(Integer a , Integer b ) {
         int temp = a;
         a = b ;
         b = temp;
