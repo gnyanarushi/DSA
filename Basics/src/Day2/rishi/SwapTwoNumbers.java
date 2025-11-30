@@ -22,8 +22,8 @@ public class SwapTwoNumbers {
         System.out.println( a  + " " + b );
 
         a = a+b;
-        b = a - b ; // b = 20 , a = -10 ==>  b = -10 + 20 ===> b = 10
-        a = a - b ; // a = 10 , b = 20 ===>   a = 10 - 20 ;  a = -10 ;
+        b = a - b ; // b = 20 , a = 30 ==>  b = 30 - 20 ===> b = 10
+        a = a - b ; // a = 30 , b = 10 ===>   a = 30 - 10 ;  a = 20 ;
 
 
         System.out.println("Swapped with the - operator ");
