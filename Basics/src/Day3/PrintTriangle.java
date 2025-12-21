@@ -1,4 +1,4 @@
-package Day3.rishi;
+package Day3;
 
 public class PrintTriangle {
     public  static void main(String[] args){

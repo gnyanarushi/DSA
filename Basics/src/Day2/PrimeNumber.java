@@ -1,4 +1,4 @@
-package Day2.rishi;
+package Day2;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class PrimeNumber {
 
     // prime number is a number which can divisible by one and itself only
 
-    static void main() {
+    public  static void main(String[] args ){
 
         Scanner in = new Scanner(System.in);
 

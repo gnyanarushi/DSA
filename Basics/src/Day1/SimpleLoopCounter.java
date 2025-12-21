@@ -1,10 +1,10 @@
-package Day1.rishi;
+package Day1;
 
 import java.util.Scanner;
 
 public class SimpleLoopCounter {
 
-    static void main(){
+    public  static void main(String[] args ){
                 Scanner in = new Scanner(System.in) ;
 
         System.out.print("Enter the number to loop  : ");

@@ -1,11 +1,11 @@
-package Day3.rishi;
+package Day3;
 
 import javax.swing.*;
 import java.util.Scanner;
 
 public class SimpleAverage {
 
-    static void main() {
+    public  static void main(String[] args ){
 
         Scanner in = new Scanner(System.in);
 

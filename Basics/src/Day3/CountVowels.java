@@ -1,10 +1,10 @@
-package Day3.rishi;
+package Day3;
 
 import java.util.Scanner;
 
 public class CountVowels {
 
-    static void main() {
+    public  static void main(String[] args ){
         Scanner in = new Scanner(System.in);
         System.out.print("Enter the name : " );
         String name = in.next();

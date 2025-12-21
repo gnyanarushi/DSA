@@ -1,12 +1,11 @@
-package Day3.rishi;
+package Day3;
 
-import jdk.swing.interop.SwingInterOpUtils;
 
 import java.util.Scanner;
 
 public class LinearSearch {
 
-    static void main(String[ ] args) {
+    public  static void main(String[] args ){
 
 
         Scanner in = new Scanner(System.in);

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternprinting/patternprinting.iml" filepath="$PROJECT_DIR$/patternprinting/patternprinting.iml" />
     </modules>
   </component>
 </project>

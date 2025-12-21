@@ -1,9 +1,8 @@
-package Day2.rishi;
+package Day2;
 
 public class ReverseString {
 
-    static void main() {
-
+    public  static void main(String[] args ){
         String string = "rishi";
 
         for(int i = string.length() -  1 ; i >= 0 ; i-- ) {
