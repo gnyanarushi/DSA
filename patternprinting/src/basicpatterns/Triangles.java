@@ -5,31 +5,46 @@ public class Triangles {
 
     public static void main(String[] args ){
 
-//        print1();
-//        System.out.println();
-//        System.out.println();
-//        print2();
-//        System.out.println();
-//        System.out.println();
-//        print3();
-//        System.out.println();
-//        System.out.println();
-//        print4();
-//        System.out.println();
-//        System.out.println();
-//        print5();
-//        System.out.println();
-//        System.out.println();
-//        print6();
-//        System.out.println();
-//        System.out.println();
-//        print7();
-//        System.out.println();
-//        System.out.println();
-//        print8();
-//        System.out.println();
-//        System.out.println();
-//        print9();
+        print1();
+        System.out.println();
+        System.out.println();
+        print2();
+        System.out.println();
+        System.out.println();
+        print3();
+        System.out.println();
+        System.out.println();
+        print4();
+        System.out.println();
+        System.out.println();
+        print5();
+        System.out.println();
+        System.out.println();
+        print6();
+        System.out.println();
+        System.out.println();
+        print7();
+        System.out.println();
+        System.out.println();
+        print8();
+        System.out.println();
+        System.out.println();
+        print9();
+        System.out.println();
+        System.out.println();
+        print10();
+        System.out.println();
+        System.out.println();
+        print11();
+        System.out.println();
+        System.out.println();
+        print12();
+        System.out.println();
+        System.out.println();
+        print13();
+        System.out.println();
+        System.out.println();
+
 
     }
 
@@ -149,5 +164,88 @@ public class Triangles {
             System.out.println();
         }
     }
+
+
+    private static void print10() {
+        int n = 5 ;
+
+        for(int i = 5 ;  i >= 1 ; i--){
+
+            for(int j = 1 ; j <= i ;j++) {
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+    }
+
+
+    private static void print11() {
+        int n = 5;
+
+        for(int i =  5  ; i >= 1 ; i-- ){
+
+            for(int j = 1 ; j <= i ; j++){
+                System.out.print(j + " ");
+            }
+            System.out.println();
+        }
+    }
+
+
+    private static void print12(){
+        int n = 5 ;
+
+        for(int i = n ; i >= 1; i-- ){
+            for (int j = 1; j <= (n - i) ;  j++) {
+                System.out.print("  ");
+            }
+            for(int j = 1 ; j <= i ; j++) {
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+    }
+
+
+    private static void print13(){
+        int n = 10;
+        for(int i = n ; i >= 1; i-- ) {
+            for(int j = 1 ; j <=  (n-i); j++){
+                System.out.print("  ");
+            }
+
+            for(int j = 1 ; j <= i ; j++) {
+                System.out.print("* ");
+            }
+
+            for(int j = 1; j <= (n-i) ; j++ ){
+                System.out.print("  ");
+            }
+            System.out.println();
+        }
+
+
+        for(int i = 1 ; i <= n; i++ ) {
+            for(int j = 1 ; j <=  (n-i) ; j++){
+                System.out.print("  ");
+            }
+
+            for(int j = 1 ; j <= i ; j++) {
+                System.out.print("* ");
+            }
+
+            for(int j = 1; j <= (n-i) ; j++ ){
+                System.out.print("  ");
+            }
+            System.out.println();
+        }
+
+
+
+    }
+
+
 
 }
