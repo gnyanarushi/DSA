@@ -28,7 +28,7 @@ public class MergeStringsAlternately {
         // using the while loop
 
         int i = 0 ;
-        while(i < (one.length() + two.length())){
+        while(i < (one.length()) || i < (  two.length())){
 
             if(i < one.length() )
                 mergedString.append(one.charAt(i));
