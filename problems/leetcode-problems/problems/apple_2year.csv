@@ -16,7 +16,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 212,Word Search II,34.9%,Hard,0.5393056293017195, https://leetcode.com/problems/word-search-ii
 311,Sparse Matrix Multiplication,61.9%,Medium,0.4503238876572249, https://leetcode.com/problems/sparse-matrix-multiplication
 200,Number of Islands,46.8%,Medium,0.44929804774434284, https://leetcode.com/problems/number-of-islands
-479,Largest Palindrome Product,29.0%,Hard,0.44183275227903923, https://leetcode.com/problems/largest-palindrome-product
+479,Largest start.Palindrome Product,29.0%,Hard,0.44183275227903923, https://leetcode.com/problems/largest-palindrome-product
 49,Group Anagrams,56.9%,Medium,0.40816116873735864, https://leetcode.com/problems/group-anagrams
 688,Knight Probability in Chessboard,48.9%,Medium,0.38977851194046487, https://leetcode.com/problems/knight-probability-in-chessboard
 351,Android Unlock Patterns,48.4%,Medium,0.38282263135840455, https://leetcode.com/problems/android-unlock-patterns
@@ -60,7 +60,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 394,Decode String,50.0%,Medium,0.18648126820299707, https://leetcode.com/problems/decode-string
 253,Meeting Rooms II,45.7%,Medium,0.18465102561460048, https://leetcode.com/problems/meeting-rooms-ii
 911,Online Election,50.4%,Medium,0.1741842396477574, https://leetcode.com/problems/online-election
-1278,Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
+1278,start.Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
 223,Rectangle Area,37.8%,Medium,0.172469260350943, https://leetcode.com/problems/rectangle-area
 7,Reverse Integer,25.8%,Easy,0.1708373626727859, https://leetcode.com/problems/reverse-integer
 31,Next Permutation,32.6%,Medium,0.16698476137397944, https://leetcode.com/problems/next-permutation
@@ -70,7 +70,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 155,Min Stack,44.5%,Easy,0.15817175770099312, https://leetcode.com/problems/min-stack
 88,Merge Sorted Array,39.4%,Easy,0.15664551938695154, https://leetcode.com/problems/merge-sorted-array
 381,Insert Delete GetRandom O(1) - Duplicates allowed,34.1%,Hard,0.15656906069153992, https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
-125,Valid Palindrome,36.7%,Easy,0.15573056017039402, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.15573056017039402, https://leetcode.com/problems/valid-palindrome
 20,Valid Parentheses,39.0%,Easy,0.15392855906669206, https://leetcode.com/problems/valid-parentheses
 14,Longest Common Prefix,35.4%,Easy,0.15097420446868728, https://leetcode.com/problems/longest-common-prefix
 17,Letter Combinations of a Phone Number,46.8%,Medium,0.14740025304271914, https://leetcode.com/problems/letter-combinations-of-a-phone-number
@@ -128,7 +128,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 33,Search in Rotated Sorted Array,34.5%,Medium,0.09336717401169674, https://leetcode.com/problems/search-in-rotated-sorted-array
 87,Scramble String,33.7%,Hard,0.09333193979221914, https://leetcode.com/problems/scramble-string
 140,Word Break II,32.6%,Hard,0.09311451843548549, https://leetcode.com/problems/word-break-ii
-266,Palindrome Permutation,61.9%,Easy,0.091248671465145, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,0.091248671465145, https://leetcode.com/problems/palindrome-permutation
 175,Combine Two Tables,60.8%,Easy,0.09043413926771789, https://leetcode.com/problems/combine-two-tables
 973,K Closest Points to Origin,63.8%,Medium,0.08860246722187161, https://leetcode.com/problems/k-closest-points-to-origin
 549,Binary Tree Longest Consecutive Sequence II,47.0%,Medium,0.08816278759467164, https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii
@@ -189,7 +189,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 407,Trapping Rain Water II,42.4%,Hard,0.04797082778602956, https://leetcode.com/problems/trapping-rain-water-ii
 6,ZigZag Conversion,36.3%,Medium,0.04724990737071425, https://leetcode.com/problems/zigzag-conversion
 486,Predict the Winner,47.9%,Medium,0.047122970130097065, https://leetcode.com/problems/predict-the-winner
-336,Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
 215,Kth Largest Element in an Array,55.4%,Medium,0.04678657567912081, https://leetcode.com/problems/kth-largest-element-in-an-array
 359,Logger Rate Limiter,70.8%,Easy,0.0467617659080393, https://leetcode.com/problems/logger-rate-limiter
 453,Minimum Moves to Equal Array Elements,50.2%,Easy,0.04652001563489285, https://leetcode.com/problems/minimum-moves-to-equal-array-elements
@@ -212,7 +212,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 79,Word Search,35.6%,Medium,0.0408086655410548, https://leetcode.com/problems/word-search
 907,Sum of Subarray Minimums,32.3%,Medium,0.04069737616380998, https://leetcode.com/problems/sum-of-subarray-minimums
 122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.04033800644917969, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-234,Palindrome Linked List,39.3%,Easy,0.04008106350430711, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.04008106350430711, https://leetcode.com/problems/palindrome-linked-list
 126,Word Ladder II,22.1%,Hard,0.04004093605556132, https://leetcode.com/problems/word-ladder-ii
 542,01 Matrix,39.8%,Medium,0.03998755762600926, https://leetcode.com/problems/01-matrix
 221,Maximal Square,37.7%,Medium,0.03897229680620825, https://leetcode.com/problems/maximal-square
@@ -332,7 +332,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 181,Employees Earning More Than Their Managers,56.9%,Easy,0.012618463959211509, https://leetcode.com/problems/employees-earning-more-than-their-managers
 226,Invert Binary Tree,65.0%,Easy,0.01235091863400913, https://leetcode.com/problems/invert-binary-tree
 112,Path Sum,41.2%,Easy,0.012265076074932503, https://leetcode.com/problems/path-sum
-9,Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
 123,Best Time to Buy and Sell Stock III,37.5%,Hard,0.011261380272539033, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 430,Flatten a Multilevel Doubly Linked List,55.1%,Medium,0.010548621020744619, https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list
 92,Reverse Linked List II,38.8%,Medium,0.010427623162259089, https://leetcode.com/problems/reverse-linked-list-ii

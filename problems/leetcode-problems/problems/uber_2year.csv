@@ -7,7 +7,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 291,Word Pattern II,43.4%,Hard,1.327098200595531, https://leetcode.com/problems/word-pattern-ii
 305,Number of Islands II,40.1%,Hard,1.2993348513875815, https://leetcode.com/problems/number-of-islands-ii
 757,Set Intersection Size At Least Two,40.1%,Hard,1.2970683845427906, https://leetcode.com/problems/set-intersection-size-at-least-two
-267,Palindrome Permutation II,36.4%,Medium,1.2914164645383432, https://leetcode.com/problems/palindrome-permutation-ii
+267,start.Palindrome Permutation II,36.4%,Medium,1.2914164645383432, https://leetcode.com/problems/palindrome-permutation-ii
 986,Interval List Intersections,67.3%,Medium,1.1614184250843902, https://leetcode.com/problems/interval-list-intersections
 361,Bomb Enemy,46.0%,Medium,1.1535711729488671, https://leetcode.com/problems/bomb-enemy
 773,Sliding Puzzle,59.3%,Hard,1.1105884797148253, https://leetcode.com/problems/sliding-puzzle
@@ -68,7 +68,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 658,Find K Closest Elements,40.9%,Medium,0.18663941293482042, https://leetcode.com/problems/find-k-closest-elements
 759,Employee Free Time,66.3%,Hard,0.1816986978513639, https://leetcode.com/problems/employee-free-time
 76,Minimum Window Substring,34.6%,Hard,0.1731900290370625, https://leetcode.com/problems/minimum-window-substring
-1278,Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
+1278,start.Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
 567,Permutation in String,44.4%,Medium,0.16931057302189864, https://leetcode.com/problems/permutation-in-string
 244,Shortest Word Distance II,52.3%,Medium,0.16400297627026994, https://leetcode.com/problems/shortest-word-distance-ii
 895,Maximum Frequency Stack,60.6%,Hard,0.1629613095094132, https://leetcode.com/problems/maximum-frequency-stack
@@ -99,7 +99,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 969,Pancake Sorting,67.5%,Medium,0.10724553035359762, https://leetcode.com/problems/pancake-sorting
 388,Longest Absolute File Path,41.8%,Medium,0.105981440856292, https://leetcode.com/problems/longest-absolute-file-path
 2,Add Two Numbers,33.9%,Medium,0.10270361758692534, https://leetcode.com/problems/add-two-numbers
-336,Palindrome Pairs,33.7%,Hard,0.10259559233600947, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,0.10259559233600947, https://leetcode.com/problems/palindrome-pairs
 79,Word Search,35.6%,Medium,0.10132037593637946, https://leetcode.com/problems/word-search
 391,Perfect Rectangle,30.5%,Hard,0.10109611687136877, https://leetcode.com/problems/perfect-rectangle
 54,Spiral Matrix,34.1%,Medium,0.10061889164064056, https://leetcode.com/problems/spiral-matrix
@@ -111,7 +111,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 490,The Maze,51.4%,Medium,0.09401490736696706, https://leetcode.com/problems/the-maze
 826,Most Profit Assigning Work,38.5%,Medium,0.09287412500644375, https://leetcode.com/problems/most-profit-assigning-work
 652,Find Duplicate Subtrees,50.2%,Medium,0.08907963005368878, https://leetcode.com/problems/find-duplicate-subtrees
-564,Find the Closest Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
 317,Shortest Distance from All Buildings,41.4%,Hard,0.08345897538526194, https://leetcode.com/problems/shortest-distance-from-all-buildings
 636,Exclusive Time of Functions,51.9%,Medium,0.08155306616046964, https://leetcode.com/problems/exclusive-time-of-functions
 161,One Edit Distance,32.3%,Medium,0.07982960165248484, https://leetcode.com/problems/one-edit-distance
@@ -139,7 +139,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1038,Binary Search Tree to Greater Sum Tree,80.8%,Medium,0.05637058926920947, https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree
 162,Find Peak Element,43.3%,Medium,0.05575061760504993, https://leetcode.com/problems/find-peak-element
 208,Implement Trie (Prefix Tree),49.4%,Medium,0.05559457257530485, https://leetcode.com/problems/implement-trie-prefix-tree
-131,Palindrome Partitioning,47.5%,Medium,0.05449083692828802, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.05449083692828802, https://leetcode.com/problems/palindrome-partitioning
 348,Design Tic-Tac-Toe,54.3%,Medium,0.05368014946362379, https://leetcode.com/problems/design-tic-tac-toe
 1229,Meeting Scheduler,52.7%,Medium,0.053560323833736816, https://leetcode.com/problems/meeting-scheduler
 829,Consecutive Numbers Sum,37.5%,Hard,0.05341723749698583, https://leetcode.com/problems/consecutive-numbers-sum

@@ -11,7 +11,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 21,Merge Two Sorted Lists,53.5%,Easy,0.004849147433009811, https://leetcode.com/problems/merge-two-sorted-lists
 146,LRU Cache,33.2%,Medium,0.004370636328108912, https://leetcode.com/problems/lru-cache
 22,Generate Parentheses,62.7%,Medium,0.004152398782798953, https://leetcode.com/problems/generate-parentheses
-125,Valid Palindrome,36.7%,Easy,0.0037979536727587773, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.0037979536727587773, https://leetcode.com/problems/valid-palindrome
 49,Group Anagrams,56.9%,Medium,0.0036347154963361594, https://leetcode.com/problems/group-anagrams
 33,Search in Rotated Sorted Array,34.5%,Medium,0.0031000567336666443, https://leetcode.com/problems/search-in-rotated-sorted-array
 88,Merge Sorted Array,39.4%,Easy,0.002885588497720344, https://leetcode.com/problems/merge-sorted-array

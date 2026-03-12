@@ -24,7 +24,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 238,Product of Array Except Self,60.1%,Medium,0.03331790689167717, https://leetcode.com/problems/product-of-array-except-self
 567,Permutation in String,44.4%,Medium,0.03164821095078173, https://leetcode.com/problems/permutation-in-string
 222,Count Complete Tree Nodes,46.8%,Medium,0.029882701600012697, https://leetcode.com/problems/count-complete-tree-nodes
-131,Palindrome Partitioning,47.5%,Medium,0.029539397513905316, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.029539397513905316, https://leetcode.com/problems/palindrome-partitioning
 75,Sort Colors,47.3%,Medium,0.02953900967923939, https://leetcode.com/problems/sort-colors
 13,Roman to Integer,55.7%,Easy,0.029095312409715624, https://leetcode.com/problems/roman-to-integer
 316,Remove Duplicate Letters,35.8%,Hard,0.029071814821976905, https://leetcode.com/problems/remove-duplicate-letters
@@ -80,11 +80,11 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 240,Search a 2D Matrix II,43.2%,Medium,0.007279377002901276, https://leetcode.com/problems/search-a-2d-matrix-ii
 176,Second Highest Salary,31.6%,Easy,0.007097261870761636, https://leetcode.com/problems/second-highest-salary
 1108,Defanging an IP Address,87.5%,Easy,0.0070151111959223245, https://leetcode.com/problems/defanging-an-ip-address
-680,Valid Palindrome II,36.6%,Easy,0.0069674554638543594, https://leetcode.com/problems/valid-palindrome-ii
+680,Valid start.Palindrome II,36.6%,Easy,0.0069674554638543594, https://leetcode.com/problems/valid-palindrome-ii
 509,Fibonacci Number,67.2%,Easy,0.0068213088507380355, https://leetcode.com/problems/fibonacci-number
 114,Flatten Binary Tree to Linked List,49.3%,Medium,0.00661815784247808, https://leetcode.com/problems/flatten-binary-tree-to-linked-list
 448,Find All Numbers Disappeared in an Array,55.9%,Easy,0.006552029991300186, https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
-9,Palindrome Number,48.4%,Easy,0.006530753927898854, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.006530753927898854, https://leetcode.com/problems/palindrome-number
 88,Merge Sorted Array,39.4%,Easy,0.006480904084083141, https://leetcode.com/problems/merge-sorted-array
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.006002018684998332, https://leetcode.com/problems/maximum-depth-of-binary-tree
 3,Longest Substring Without Repeating Characters,30.4%,Medium,0.005927699633275225, https://leetcode.com/problems/longest-substring-without-repeating-characters

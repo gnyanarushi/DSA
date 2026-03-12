@@ -6,7 +6,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 403,Frog Jump,39.7%,Hard,0.2789440727446297, https://leetcode.com/problems/frog-jump
 402,Remove K Digits,28.4%,Medium,0.24067603007585034, https://leetcode.com/problems/remove-k-digits
 826,Most Profit Assigning Work,38.5%,Medium,0.09287412500644375, https://leetcode.com/problems/most-profit-assigning-work
-564,Find the Closest Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
 316,Remove Duplicate Letters,35.8%,Hard,0.067239661116769, https://leetcode.com/problems/remove-duplicate-letters
 202,Happy Number,50.4%,Easy,0.05503451923624455, https://leetcode.com/problems/happy-number
 33,Search in Rotated Sorted Array,34.5%,Medium,0.05046797817178903, https://leetcode.com/problems/search-in-rotated-sorted-array
@@ -29,7 +29,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 210,Course Schedule II,40.7%,Medium,0.011869857339029215, https://leetcode.com/problems/course-schedule-ii
 283,Move Zeroes,57.8%,Easy,0.01149190266804209, https://leetcode.com/problems/move-zeroes
 207,Course Schedule,43.1%,Medium,0.01113459480911671, https://leetcode.com/problems/course-schedule
-234,Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
 22,Generate Parentheses,62.7%,Medium,0.009785877810632554, https://leetcode.com/problems/generate-parentheses
 208,Implement Trie (Prefix Tree),49.4%,Medium,0.009105457856626612, https://leetcode.com/problems/implement-trie-prefix-tree
 5,Longest Palindromic Substring,29.5%,Medium,0.005121212968082452, https://leetcode.com/problems/longest-palindromic-substring

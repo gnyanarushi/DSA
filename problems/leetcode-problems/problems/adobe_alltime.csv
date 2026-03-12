@@ -17,7 +17,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 11,Container With Most Water,50.8%,Medium,1.1498172467169137, https://leetcode.com/problems/container-with-most-water
 146,LRU Cache,33.2%,Medium,1.1414840541705635, https://leetcode.com/problems/lru-cache
 14,Longest Common Prefix,35.4%,Easy,1.0701063949652634, https://leetcode.com/problems/longest-common-prefix
-9,Palindrome Number,48.4%,Easy,1.0389585830023096, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,1.0389585830023096, https://leetcode.com/problems/palindrome-number
 292,Nim Game,54.9%,Easy,1.0340435601569165, https://leetcode.com/problems/nim-game
 206,Reverse Linked List,62.5%,Easy,0.9491844552172142, https://leetcode.com/problems/reverse-linked-list
 22,Generate Parentheses,62.7%,Medium,0.9146285119909732, https://leetcode.com/problems/generate-parentheses
@@ -33,7 +33,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 76,Minimum Window Substring,34.6%,Hard,0.641927908156958, https://leetcode.com/problems/minimum-window-substring
 10,Regular Expression Matching,26.8%,Hard,0.6273817982285409, https://leetcode.com/problems/regular-expression-matching
 386,Lexicographical Numbers,51.6%,Medium,0.626946543403964, https://leetcode.com/problems/lexicographical-numbers
-214,Shortest Palindrome,29.8%,Hard,0.6257058997644127, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.6257058997644127, https://leetcode.com/problems/shortest-palindrome
 561,Array Partition I,72.0%,Easy,0.6209795294618357, https://leetcode.com/problems/array-partition-i
 12,Integer to Roman,55.1%,Medium,0.618907369249803, https://leetcode.com/problems/integer-to-roman
 88,Merge Sorted Array,39.4%,Easy,0.5992604670982806, https://leetcode.com/problems/merge-sorted-array
@@ -68,7 +68,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 24,Swap Nodes in Pairs,50.4%,Medium,0.3722036149739704, https://leetcode.com/problems/swap-nodes-in-pairs
 343,Integer Break,50.4%,Medium,0.3649680588757168, https://leetcode.com/problems/integer-break
 31,Next Permutation,32.6%,Medium,0.3605125693237505, https://leetcode.com/problems/next-permutation
-131,Palindrome Partitioning,47.5%,Medium,0.35313350367645147, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.35313350367645147, https://leetcode.com/problems/palindrome-partitioning
 141,Linked List Cycle,41.1%,Easy,0.3531074716115724, https://leetcode.com/problems/linked-list-cycle
 200,Number of Islands,46.8%,Medium,0.348349251262677, https://leetcode.com/problems/number-of-islands
 71,Simplify Path,32.6%,Medium,0.3434734320801965, https://leetcode.com/problems/simplify-path
@@ -87,7 +87,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 198,House Robber,42.0%,Easy,0.29249400591952035, https://leetcode.com/problems/house-robber
 329,Longest Increasing Path in a Matrix,43.4%,Hard,0.29062882263712253, https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 78,Subsets,62.0%,Medium,0.28775134131891633, https://leetcode.com/problems/subsets
-234,Palindrome Linked List,39.3%,Easy,0.2838977996794123, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.2838977996794123, https://leetcode.com/problems/palindrome-linked-list
 139,Word Break,40.1%,Medium,0.2746475346554156, https://leetcode.com/problems/word-break
 25,Reverse Nodes in k-Group,42.1%,Hard,0.2704051213089347, https://leetcode.com/problems/reverse-nodes-in-k-group
 929,Unique Email Addresses,67.4%,Easy,0.26920579628420777, https://leetcode.com/problems/unique-email-addresses
@@ -155,7 +155,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 375,Guess Number Higher or Lower II,40.3%,Medium,0.1391128024627178, https://leetcode.com/problems/guess-number-higher-or-lower-ii
 554,Brick Wall,50.0%,Medium,0.1384696742651052, https://leetcode.com/problems/brick-wall
 726,Number of Atoms,49.0%,Hard,0.13804422079620546, https://leetcode.com/problems/number-of-atoms
-125,Valid Palindrome,36.7%,Easy,0.13416684727631417, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.13416684727631417, https://leetcode.com/problems/valid-palindrome
 987,Vertical Order Traversal of a Binary Tree,36.6%,Medium,0.13360431878681564, https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
 110,Balanced Binary Tree,43.5%,Easy,0.13348731548952925, https://leetcode.com/problems/balanced-binary-tree
 35,Search Insert Position,42.6%,Easy,0.13181240319984847, https://leetcode.com/problems/search-insert-position

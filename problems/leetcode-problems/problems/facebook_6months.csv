@@ -2,7 +2,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 953,Verifying an Alien Dictionary,54.1%,Easy,2.989885912665777, https://leetcode.com/problems/verifying-an-alien-dictionary
 1249,Minimum Remove to Make Valid Parentheses,62.5%,Medium,2.789692716779026, https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
 560,Subarray Sum Equals K,43.9%,Medium,2.589499520892275, https://leetcode.com/problems/subarray-sum-equals-k
-680,Valid Palindrome II,36.6%,Easy,2.4309487236103293, https://leetcode.com/problems/valid-palindrome-ii
+680,Valid start.Palindrome II,36.6%,Easy,2.4309487236103293, https://leetcode.com/problems/valid-palindrome-ii
 973,K Closest Points to Origin,63.8%,Medium,2.4168563957837113, https://leetcode.com/problems/k-closest-points-to-origin
 238,Product of Array Except Self,60.1%,Medium,2.3907554290635766, https://leetcode.com/problems/product-of-array-except-self
 273,Integer to English Words,27.1%,Hard,2.1905622331768257, https://leetcode.com/problems/integer-to-english-words
@@ -29,7 +29,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 636,Exclusive Time of Functions,51.9%,Medium,1.070608304685468, https://leetcode.com/problems/exclusive-time-of-functions
 282,Expression Add Operators,35.5%,Hard,1.0455990970504063, https://leetcode.com/problems/expression-add-operators
 340,Longest Substring with At Most K Distinct Characters,44.1%,Hard,1.0267418846400203, https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
-125,Valid Palindrome,36.7%,Easy,1.0148317568156204, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,1.0148317568156204, https://leetcode.com/problems/valid-palindrome
 986,Interval List Intersections,67.3%,Medium,1.0057274214846563, https://leetcode.com/problems/interval-list-intersections
 689,Maximum Sum of 3 Non-Overlapping Subarrays,46.3%,Hard,0.9947846759711312, https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays
 88,Merge Sorted Array,39.4%,Easy,0.9801695539990253, https://leetcode.com/problems/merge-sorted-array
@@ -103,7 +103,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 93,Restore IP Addresses,35.6%,Medium,0.27714773876682147, https://leetcode.com/problems/restore-ip-addresses
 695,Max Area of Island,62.7%,Medium,0.2770125235595406, https://leetcode.com/problems/max-area-of-island
 548,Split Array with Equal Sum,46.4%,Medium,0.2761315220005779, https://leetcode.com/problems/split-array-with-equal-sum
-1216,Valid Palindrome III,47.8%,Hard,0.2752815592533259, https://leetcode.com/problems/valid-palindrome-iii
+1216,Valid start.Palindrome III,47.8%,Hard,0.2752815592533259, https://leetcode.com/problems/valid-palindrome-iii
 50,Pow(x;n),30.3%,Medium,0.2584425901237734, https://leetcode.com/problems/powx-n
 304,Range Sum Query 2D - Immutable,38.6%,Medium,0.24975649223064128, https://leetcode.com/problems/range-sum-query-2d-immutable
 621,Task Scheduler,50.1%,Medium,0.24973714088765747, https://leetcode.com/problems/task-scheduler
@@ -230,7 +230,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 716,Max Stack,42.6%,Easy,0.042695919196489414, https://leetcode.com/problems/max-stack
 669,Trim a Binary Search Tree,63.0%,Easy,0.04255961441879593, https://leetcode.com/problems/trim-a-binary-search-tree
 674,Longest Continuous Increasing Subsequence,45.9%,Easy,0.04225980928988265, https://leetcode.com/problems/longest-continuous-increasing-subsequence
-266,Palindrome Permutation,61.9%,Easy,0.04158603377810283, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,0.04158603377810283, https://leetcode.com/problems/palindrome-permutation
 62,Unique Paths,54.1%,Medium,0.04084052144450833, https://leetcode.com/problems/unique-paths
 918,Maximum Sum Circular Subarray,33.7%,Medium,0.04045040846284272, https://leetcode.com/problems/maximum-sum-circular-subarray
 122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.04033800644917969, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
@@ -244,7 +244,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 334,Increasing Triplet Subsequence,40.0%,Medium,0.03577488021091517, https://leetcode.com/problems/increasing-triplet-subsequence
 295,Find Median from Data Stream,44.3%,Hard,0.035519827248535335, https://leetcode.com/problems/find-median-from-data-stream
 416,Partition Equal Subset Sum,43.7%,Medium,0.034301326353463016, https://leetcode.com/problems/partition-equal-subset-sum
-214,Shortest Palindrome,29.8%,Hard,0.03419136474827932, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.03419136474827932, https://leetcode.com/problems/shortest-palindrome
 886,Possible Bipartition,44.2%,Medium,0.034103901828857086, https://leetcode.com/problems/possible-bipartition
 1360,Number of Days Between Two Dates,48.8%,Easy,0.03401688527825427, https://leetcode.com/problems/number-of-days-between-two-dates
 567,Permutation in String,44.4%,Medium,0.033324075731591886, https://leetcode.com/problems/permutation-in-string
@@ -333,7 +333,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 268,Missing Number,51.7%,Easy,0.0048804391649084865, https://leetcode.com/problems/missing-number
 154,Find Minimum in Rotated Sorted Array II,41.6%,Hard,0.004780123824719199, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii
 155,Min Stack,44.5%,Easy,0.00474891074128171, https://leetcode.com/problems/min-stack
-234,Palindrome Linked List,39.3%,Easy,0.004533613114828982, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.004533613114828982, https://leetcode.com/problems/palindrome-linked-list
 17,Letter Combinations of a Phone Number,46.8%,Medium,0.0044018999217624675, https://leetcode.com/problems/letter-combinations-of-a-phone-number
 210,Course Schedule II,40.7%,Medium,0.0042893974831731225, https://leetcode.com/problems/course-schedule-ii
 103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,0.003839922800048048, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal

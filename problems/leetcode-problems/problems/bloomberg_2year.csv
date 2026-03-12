@@ -56,7 +56,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1223,Dice Roll Simulation,45.6%,Medium,0.2166710368085923, https://leetcode.com/problems/dice-roll-simulation
 5,Longest Palindromic Substring,29.5%,Medium,0.20554421123878217, https://leetcode.com/problems/longest-palindromic-substring
 463,Island Perimeter,65.7%,Easy,0.20102047685235075, https://leetcode.com/problems/island-perimeter
-214,Shortest Palindrome,29.8%,Hard,0.19671029424605424, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.19671029424605424, https://leetcode.com/problems/shortest-palindrome
 173,Binary Search Tree Iterator,56.6%,Medium,0.1932027494363769, https://leetcode.com/problems/binary-search-tree-iterator
 1047,Remove All Adjacent Duplicates In String,68.6%,Easy,0.19088376654809422, https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
 658,Find K Closest Elements,40.9%,Medium,0.18663941293482042, https://leetcode.com/problems/find-k-closest-elements
@@ -126,7 +126,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 8,String to Integer (atoi),15.4%,Medium,0.07412832776627384, https://leetcode.com/problems/string-to-integer-atoi
 76,Minimum Window Substring,34.6%,Hard,0.07378420845373558, https://leetcode.com/problems/minimum-window-substring
 503,Next Greater Element II,56.5%,Medium,0.07339377143296942, https://leetcode.com/problems/next-greater-element-ii
-9,Palindrome Number,48.4%,Easy,0.07330899176233006, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.07330899176233006, https://leetcode.com/problems/palindrome-number
 209,Minimum Size Subarray Sum,38.2%,Medium,0.07329286546547308, https://leetcode.com/problems/minimum-size-subarray-sum
 271,Encode and Decode Strings,31.5%,Medium,0.07197349962508924, https://leetcode.com/problems/encode-and-decode-strings
 470,Implement Rand10() Using Rand7(),46.3%,Medium,0.07020425867324853, https://leetcode.com/problems/implement-rand10-using-rand7
@@ -157,11 +157,11 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 85,Maximal Rectangle,37.7%,Hard,0.05229949940284891, https://leetcode.com/problems/maximal-rectangle
 286,Walls and Gates,54.5%,Medium,0.05155780966485001, https://leetcode.com/problems/walls-and-gates
 708,Insert into a Sorted Circular Linked List,31.6%,Medium,0.05142521180743711, https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
-1312,Minimum Insertion Steps to Make a String Palindrome,58.1%,Hard,0.050261834780888255, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1312,Minimum Insertion Steps to Make a String start.Palindrome,58.1%,Hard,0.050261834780888255, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
 285,Inorder Successor in BST,40.4%,Medium,0.049569618859417214, https://leetcode.com/problems/inorder-successor-in-bst
 203,Remove Linked List Elements,38.6%,Easy,0.04798700179553833, https://leetcode.com/problems/remove-linked-list-elements
-125,Valid Palindrome,36.7%,Easy,0.047702249651065814, https://leetcode.com/problems/valid-palindrome
-336,Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
+125,Valid start.Palindrome,36.7%,Easy,0.047702249651065814, https://leetcode.com/problems/valid-palindrome
+336,start.Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
 556,Next Greater Element III,31.7%,Medium,0.04679216150675895, https://leetcode.com/problems/next-greater-element-iii
 543,Diameter of Binary Tree,48.4%,Easy,0.04676784186766119, https://leetcode.com/problems/diameter-of-binary-tree
 978,Longest Turbulent Subarray,46.6%,Medium,0.046737477851689815, https://leetcode.com/problems/longest-turbulent-subarray
@@ -213,7 +213,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 82,Remove Duplicates from Sorted List II,36.8%,Medium,0.028950236662501776, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
 147,Insertion Sort List,41.1%,Medium,0.028675799976666333, https://leetcode.com/problems/insertion-sort-list
 852,Peak Index in a Mountain Array,71.6%,Easy,0.02817087696669632, https://leetcode.com/problems/peak-index-in-a-mountain-array
-234,Palindrome Linked List,39.3%,Easy,0.028003622014534227, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.028003622014534227, https://leetcode.com/problems/palindrome-linked-list
 19,Remove Nth Node From End of List,35.2%,Medium,0.027353171676046843, https://leetcode.com/problems/remove-nth-node-from-end-of-list
 547,Friend Circles,58.6%,Medium,0.027307522052851193, https://leetcode.com/problems/friend-circles
 11,Container With Most Water,50.8%,Medium,0.02727648457622222, https://leetcode.com/problems/container-with-most-water
@@ -273,7 +273,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 621,Task Scheduler,50.1%,Medium,0.014546980601820143, https://leetcode.com/problems/task-scheduler
 912,Sort an Array,63.9%,Medium,0.01443026482902881, https://leetcode.com/problems/sort-an-array
 404,Sum of Left Leaves,50.9%,Easy,0.013981353230340547, https://leetcode.com/problems/sum-of-left-leaves
-131,Palindrome Partitioning,47.5%,Medium,0.013903595538577326, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.013903595538577326, https://leetcode.com/problems/palindrome-partitioning
 703,Kth Largest Element in a Stream,49.7%,Easy,0.013898764390814973, https://leetcode.com/problems/kth-largest-element-in-a-stream
 724,Find Pivot Index,44.0%,Easy,0.013850636933899008, https://leetcode.com/problems/find-pivot-index
 581,Shortest Unsorted Continuous Subarray,31.1%,Easy,0.013342426083839913, https://leetcode.com/problems/shortest-unsorted-continuous-subarray

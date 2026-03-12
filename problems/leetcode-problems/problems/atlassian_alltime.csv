@@ -34,7 +34,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 173,Binary Search Tree Iterator,56.6%,Medium,0.01899993824490396, https://leetcode.com/problems/binary-search-tree-iterator
 872,Leaf-Similar Trees,64.5%,Easy,0.01752125418714782, https://leetcode.com/problems/leaf-similar-trees
 46,Permutations,63.5%,Medium,0.016759583649075344, https://leetcode.com/problems/permutations
-680,Valid Palindrome II,36.6%,Easy,0.01632541245860885, https://leetcode.com/problems/valid-palindrome-ii
+680,Valid start.Palindrome II,36.6%,Easy,0.01632541245860885, https://leetcode.com/problems/valid-palindrome-ii
 701,Insert into a Binary Search Tree,77.7%,Medium,0.015522236371561826, https://leetcode.com/problems/insert-into-a-binary-search-tree
 528,Random Pick with Weight,43.9%,Medium,0.014831565905995232, https://leetcode.com/problems/random-pick-with-weight
 227,Basic Calculator II,36.9%,Medium,0.01239941490503826, https://leetcode.com/problems/basic-calculator-ii

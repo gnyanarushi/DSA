@@ -60,7 +60,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 642,Design Search Autocomplete System,44.7%,Hard,0.04334372921647208, https://leetcode.com/problems/design-search-autocomplete-system
 490,The Maze,51.4%,Medium,0.04287902305923364, https://leetcode.com/problems/the-maze
 545,Boundary of Binary Tree,38.9%,Medium,0.04158603377810283, https://leetcode.com/problems/boundary-of-binary-tree
-266,Palindrome Permutation,61.9%,Easy,0.04158603377810283, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,0.04158603377810283, https://leetcode.com/problems/palindrome-permutation
 37,Sudoku Solver,43.6%,Hard,0.040527833612118376, https://leetcode.com/problems/sudoku-solver
 18,4Sum,33.7%,Medium,0.03880215185647971, https://leetcode.com/problems/4sum
 168,Excel Sheet Column Title,31.1%,Easy,0.03861483612777958, https://leetcode.com/problems/excel-sheet-column-title
@@ -120,7 +120,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 7,Reverse Integer,25.8%,Easy,0.016627790608488954, https://leetcode.com/problems/reverse-integer
 242,Valid Anagram,56.9%,Easy,0.016513947375674708, https://leetcode.com/problems/valid-anagram
 509,Fibonacci Number,67.2%,Easy,0.01593518138579736, https://leetcode.com/problems/fibonacci-number
-125,Valid Palindrome,36.7%,Easy,0.01582781088607703, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.01582781088607703, https://leetcode.com/problems/valid-palindrome
 59,Spiral Matrix II,53.9%,Medium,0.01579187969789165, https://leetcode.com/problems/spiral-matrix-ii
 86,Partition List,41.5%,Medium,0.01578564744229187, https://leetcode.com/problems/partition-list
 1002,Find Common Characters,67.6%,Easy,0.015273301861833809, https://leetcode.com/problems/find-common-characters
@@ -145,7 +145,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.011105055822701604, https://leetcode.com/problems/maximum-depth-of-binary-tree
 155,Min Stack,44.5%,Easy,0.010653509851791077, https://leetcode.com/problems/min-stack
 211,Add and Search Word - Data structure design,38.1%,Medium,0.010438508143923443, https://leetcode.com/problems/add-and-search-word-data-structure-design
-234,Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
 221,Maximal Square,37.7%,Medium,0.00988638798855515, https://leetcode.com/problems/maximal-square
 22,Generate Parentheses,62.7%,Medium,0.009785877810632554, https://leetcode.com/problems/generate-parentheses
 47,Permutations II,46.4%,Medium,0.009673594178378379, https://leetcode.com/problems/permutations-ii
@@ -171,7 +171,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 114,Flatten Binary Tree to Linked List,49.3%,Medium,0.006896579059060353, https://leetcode.com/problems/flatten-binary-tree-to-linked-list
 11,Container With Most Water,50.8%,Medium,0.006889188300412141, https://leetcode.com/problems/container-with-most-water
 448,Find All Numbers Disappeared in an Array,55.9%,Easy,0.006863444924982415, https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
-9,Palindrome Number,48.4%,Easy,0.006822343017166543, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.006822343017166543, https://leetcode.com/problems/palindrome-number
 29,Divide Two Integers,16.4%,Medium,0.006772799340092467, https://leetcode.com/problems/divide-two-integers
 118,Pascal's Triangle,52.5%,Easy,0.006749941254175012, https://leetcode.com/problems/pascals-triangle
 142,Linked List Cycle II,37.3%,Medium,0.006564934131150057, https://leetcode.com/problems/linked-list-cycle-ii

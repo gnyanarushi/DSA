@@ -17,7 +17,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 218,The Skyline Problem,34.6%,Hard,1.2026816485623162, https://leetcode.com/problems/the-skyline-problem
 1095,Find in Mountain Array,35.8%,Hard,1.2013559031699637, https://leetcode.com/problems/find-in-mountain-array
 97,Interleaving String,31.5%,Hard,1.1879190873014442, https://leetcode.com/problems/interleaving-string
-479,Largest Palindrome Product,29.0%,Hard,1.1700712526502546, https://leetcode.com/problems/largest-palindrome-product
+479,Largest start.Palindrome Product,29.0%,Hard,1.1700712526502546, https://leetcode.com/problems/largest-palindrome-product
 393,UTF-8 Validation,37.5%,Medium,1.1560693436928968, https://leetcode.com/problems/utf-8-validation
 238,Product of Array Except Self,60.1%,Medium,1.125997958136907, https://leetcode.com/problems/product-of-array-except-self
 311,Sparse Matrix Multiplication,61.9%,Medium,1.1083957349771807, https://leetcode.com/problems/sparse-matrix-multiplication
@@ -60,7 +60,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 36,Valid Sudoku,48.7%,Medium,0.505273909298483, https://leetcode.com/problems/valid-sudoku
 297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.4952936935923334, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.4854623787914392, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-125,Valid Palindrome,36.7%,Easy,0.48439503752030155, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.48439503752030155, https://leetcode.com/problems/valid-palindrome
 251,Flatten 2D Vector,45.7%,Medium,0.4808790962829651, https://leetcode.com/problems/flatten-2d-vector
 45,Jump Game II,30.6%,Hard,0.47865910784592636, https://leetcode.com/problems/jump-game-ii
 46,Permutations,63.5%,Medium,0.4752581007118412, https://leetcode.com/problems/permutations
@@ -69,7 +69,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 31,Next Permutation,32.6%,Medium,0.4704916447217573, https://leetcode.com/problems/next-permutation
 771,Jewels and Stones,86.4%,Easy,0.4651251797550661, https://leetcode.com/problems/jewels-and-stones
 724,Find Pivot Index,44.0%,Easy,0.4632690080861186, https://leetcode.com/problems/find-pivot-index
-336,Palindrome Pairs,33.7%,Hard,0.462623521948113, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,0.462623521948113, https://leetcode.com/problems/palindrome-pairs
 155,Min Stack,44.5%,Easy,0.421871495581358, https://leetcode.com/problems/min-stack
 177,Nth Highest Salary,31.4%,Medium,0.41948151008170015, https://leetcode.com/problems/nth-highest-salary
 253,Meeting Rooms II,45.7%,Medium,0.41816049272375677, https://leetcode.com/problems/meeting-rooms-ii
@@ -159,7 +159,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 215,Kth Largest Element in an Array,55.4%,Medium,0.22333903562721621, https://leetcode.com/problems/kth-largest-element-in-an-array
 353,Design Snake Game,34.2%,Medium,0.2228314901476892, https://leetcode.com/problems/design-snake-game
 133,Clone Graph,34.8%,Medium,0.22085334910266116, https://leetcode.com/problems/clone-graph
-9,Palindrome Number,48.4%,Easy,0.2202947418496198, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.2202947418496198, https://leetcode.com/problems/palindrome-number
 986,Interval List Intersections,67.3%,Medium,0.21819454006628897, https://leetcode.com/problems/interval-list-intersections
 229,Majority Element II,35.6%,Medium,0.21162970925187066, https://leetcode.com/problems/majority-element-ii
 108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.2113223542441748, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
@@ -185,11 +185,11 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 77,Combinations,54.7%,Medium,0.18405670984385755, https://leetcode.com/problems/combinations
 518,Coin Change 2,50.2%,Medium,0.18373876827436816, https://leetcode.com/problems/coin-change-2
 231,Power of Two,43.7%,Easy,0.18077110562857268, https://leetcode.com/problems/power-of-two
-234,Palindrome Linked List,39.3%,Easy,0.17561579569700486, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.17561579569700486, https://leetcode.com/problems/palindrome-linked-list
 240,Search a 2D Matrix II,43.2%,Medium,0.17420113958996, https://leetcode.com/problems/search-a-2d-matrix-ii
 911,Online Election,50.4%,Medium,0.1741842396477574, https://leetcode.com/problems/online-election
 74,Search a 2D Matrix,36.5%,Medium,0.17399668345849942, https://leetcode.com/problems/search-a-2d-matrix
-1278,Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
+1278,start.Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
 151,Reverse Words in a String,21.9%,Medium,0.1707401585649133, https://leetcode.com/problems/reverse-words-in-a-string
 43,Multiply Strings,33.9%,Medium,0.17061651017204038, https://leetcode.com/problems/multiply-strings
 176,Second Highest Salary,31.6%,Easy,0.17018888346853764, https://leetcode.com/problems/second-highest-salary
@@ -248,7 +248,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 207,Course Schedule,43.1%,Medium,0.09601114875296962, https://leetcode.com/problems/course-schedule
 338,Counting Bits,69.5%,Medium,0.09394125419698317, https://leetcode.com/problems/counting-bits
 87,Scramble String,33.7%,Hard,0.09333193979221914, https://leetcode.com/problems/scramble-string
-266,Palindrome Permutation,61.9%,Easy,0.091248671465145, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,0.091248671465145, https://leetcode.com/problems/palindrome-permutation
 282,Expression Add Operators,35.5%,Hard,0.08720118433574389, https://leetcode.com/problems/expression-add-operators
 622,Design Circular Queue,43.7%,Medium,0.08696405427235052, https://leetcode.com/problems/design-circular-queue
 256,Paint House,52.1%,Easy,0.08650924290928251, https://leetcode.com/problems/paint-house

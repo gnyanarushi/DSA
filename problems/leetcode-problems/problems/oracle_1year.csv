@@ -76,7 +76,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1305,All Elements in Two Binary Search Trees,76.1%,Medium,0.026282721799194744, https://leetcode.com/problems/all-elements-in-two-binary-search-trees
 34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,0.026256496787488606, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 41,First Missing Positive,32.0%,Hard,0.02540222313806603, https://leetcode.com/problems/first-missing-positive
-125,Valid Palindrome,36.7%,Easy,0.02462208292471368, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.02462208292471368, https://leetcode.com/problems/valid-palindrome
 836,Rectangle Overlap,48.6%,Easy,0.024228925974379843, https://leetcode.com/problems/rectangle-overlap
 4,Median of Two Sorted Arrays,29.6%,Hard,0.024130115852798662, https://leetcode.com/problems/median-of-two-sorted-arrays
 127,Word Ladder,29.6%,Medium,0.023704813655166343, https://leetcode.com/problems/word-ladder
@@ -168,7 +168,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.0033545821461532107, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
 14,Longest Common Prefix,35.4%,Easy,0.003320331762984143, https://leetcode.com/problems/longest-common-prefix
 19,Remove Nth Node From End of List,35.2%,Medium,0.003076452203393495, https://leetcode.com/problems/remove-nth-node-from-end-of-list
-9,Palindrome Number,48.4%,Easy,0.0030379001110948244, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.0030379001110948244, https://leetcode.com/problems/palindrome-number
 140,Word Break II,32.6%,Hard,0.0027070942357783584, https://leetcode.com/problems/word-break-ii
 621,Task Scheduler,50.1%,Medium,0.002341784338144407, https://leetcode.com/problems/task-scheduler
 210,Course Schedule II,40.7%,Medium,0.0019086707135282834, https://leetcode.com/problems/course-schedule-ii

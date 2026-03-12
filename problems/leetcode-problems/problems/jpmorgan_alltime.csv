@@ -3,10 +3,10 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 20,Valid Parentheses,39.0%,Easy,2.091183527592892, https://leetcode.com/problems/valid-parentheses
 322,Coin Change,35.5%,Medium,0.7098651233544434, https://leetcode.com/problems/coin-change
 121,Best Time to Buy and Sell Stock,50.5%,Easy,0.24778819384825912, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-1328,Break a Palindrome,43.3%,Medium,0.21795507637539235, https://leetcode.com/problems/break-a-palindrome
+1328,Break a start.Palindrome,43.3%,Medium,0.21795507637539235, https://leetcode.com/problems/break-a-palindrome
 31,Next Permutation,32.6%,Medium,0.11480808652664298, https://leetcode.com/problems/next-permutation
 273,Integer to English Words,27.1%,Hard,0.10380963271229693, https://leetcode.com/problems/integer-to-english-words
-9,Palindrome Number,48.4%,Easy,0.08804403243108966, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.08804403243108966, https://leetcode.com/problems/palindrome-number
 1,Two Sum,45.6%,Easy,0.07889903801250679, https://leetcode.com/problems/two-sum
 7,Reverse Integer,25.8%,Easy,0.054824382173728654, https://leetcode.com/problems/reverse-integer
 17,Letter Combinations of a Phone Number,46.8%,Medium,0.052632421620123555, https://leetcode.com/problems/letter-combinations-of-a-phone-number

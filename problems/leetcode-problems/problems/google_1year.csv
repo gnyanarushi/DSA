@@ -136,7 +136,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1203,Sort Items by Groups Respecting Dependencies,47.6%,Hard,0.2711095169699942, https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
 1140,Stone Game II,63.3%,Medium,0.2655409465745674, https://leetcode.com/problems/stone-game-ii
 845,Longest Mountain in Array,37.2%,Medium,0.26525754195362866, https://leetcode.com/problems/longest-mountain-in-array
-336,Palindrome Pairs,33.7%,Hard,0.2624566048341479, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,0.2624566048341479, https://leetcode.com/problems/palindrome-pairs
 1265,Print Immutable Linked List in Reverse,94.6%,Medium,0.26207612154660964, https://leetcode.com/problems/print-immutable-linked-list-in-reverse
 127,Word Ladder,29.6%,Medium,0.25762464516780426, https://leetcode.com/problems/word-ladder
 632,Smallest Range Covering Elements from K Lists,52.4%,Hard,0.2574120081490246, https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
@@ -157,7 +157,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 369,Plus One Linked List,58.2%,Medium,0.22538822116803361, https://leetcode.com/problems/plus-one-linked-list
 4,Median of Two Sorted Arrays,29.6%,Hard,0.22322170378972916, https://leetcode.com/problems/median-of-two-sorted-arrays
 353,Design Snake Game,34.2%,Medium,0.2228314901476892, https://leetcode.com/problems/design-snake-game
-267,Palindrome Permutation II,36.4%,Medium,0.21932154283963445, https://leetcode.com/problems/palindrome-permutation-ii
+267,start.Palindrome Permutation II,36.4%,Medium,0.21932154283963445, https://leetcode.com/problems/palindrome-permutation-ii
 393,UTF-8 Validation,37.5%,Medium,0.2166710368085923, https://leetcode.com/problems/utf-8-validation
 417,Pacific Atlantic Water Flow,41.1%,Medium,0.2125614419836728, https://leetcode.com/problems/pacific-atlantic-water-flow
 1352,Product of the Last K Numbers,43.6%,Medium,0.21187081254168746, https://leetcode.com/problems/product-of-the-last-k-numbers
@@ -183,7 +183,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 198,House Robber,42.0%,Easy,0.1920777317393193, https://leetcode.com/problems/house-robber
 708,Insert into a Sorted Circular Linked List,31.6%,Medium,0.19151400497811882, https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
 549,Binary Tree Longest Consecutive Sequence II,47.0%,Medium,0.1884471502206373, https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii
-1312,Minimum Insertion Steps to Make a String Palindrome,58.1%,Hard,0.1874629562943733, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1312,Minimum Insertion Steps to Make a String start.Palindrome,58.1%,Hard,0.1874629562943733, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
 840,Magic Squares In Grid,37.3%,Easy,0.18533360726394627, https://leetcode.com/problems/magic-squares-in-grid
 1466,Reorder Routes to Make All Paths Lead to the City Zero,63.5%,Medium,0.18400364297693944, https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
 380,Insert Delete GetRandom O(1),47.5%,Medium,0.18219818377547725, https://leetcode.com/problems/insert-delete-getrandom-o1
@@ -348,7 +348,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 287,Find the Duplicate Number,55.5%,Medium,0.04845517889579887, https://leetcode.com/problems/find-the-duplicate-number
 958,Check Completeness of a Binary Tree,52.1%,Medium,0.0483185772708077, https://leetcode.com/problems/check-completeness-of-a-binary-tree
 949,Largest Time for Given Digits,35.8%,Easy,0.04814407445796121, https://leetcode.com/problems/largest-time-for-given-digits
-9,Palindrome Number,48.4%,Easy,0.04753252347502475, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.04753252347502475, https://leetcode.com/problems/palindrome-number
 486,Predict the Winner,47.9%,Medium,0.047122970130097065, https://leetcode.com/problems/predict-the-winner
 328,Odd Even Linked List,55.7%,Medium,0.04684258362761172, https://leetcode.com/problems/odd-even-linked-list
 689,Maximum Sum of 3 Non-Overlapping Subarrays,46.3%,Hard,0.04625101765075567, https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays
@@ -426,7 +426,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 849,Maximize Distance to Closest Person,42.6%,Easy,0.02506396866321625, https://leetcode.com/problems/maximize-distance-to-closest-person
 941,Valid Mountain Array,33.2%,Easy,0.02489066552578776, https://leetcode.com/problems/valid-mountain-array
 220,Contains Duplicate III,20.9%,Medium,0.024876904755404577, https://leetcode.com/problems/contains-duplicate-iii
-409,Longest Palindrome,50.3%,Easy,0.02486144206532915, https://leetcode.com/problems/longest-palindrome
+409,Longest start.Palindrome,50.3%,Easy,0.02486144206532915, https://leetcode.com/problems/longest-palindrome
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.024815169119723996, https://leetcode.com/problems/maximum-depth-of-binary-tree
 983,Minimum Cost For Tickets,60.5%,Medium,0.02467737809337621, https://leetcode.com/problems/minimum-cost-for-tickets
 463,Island Perimeter,65.7%,Easy,0.024437816727414238, https://leetcode.com/problems/island-perimeter
@@ -470,7 +470,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 177,Nth Highest Salary,31.4%,Medium,0.014373226241371741, https://leetcode.com/problems/nth-highest-salary
 371,Sum of Two Integers,50.7%,Medium,0.014064929467403538, https://leetcode.com/problems/sum-of-two-integers
 24,Swap Nodes in Pairs,50.4%,Medium,0.013945066390122038, https://leetcode.com/problems/swap-nodes-in-pairs
-131,Palindrome Partitioning,47.5%,Medium,0.013903595538577326, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.013903595538577326, https://leetcode.com/problems/palindrome-partitioning
 144,Binary Tree Preorder Traversal,55.7%,Medium,0.013667638728663807, https://leetcode.com/problems/binary-tree-preorder-traversal
 70,Climbing Stairs,47.8%,Easy,0.013494975575004323, https://leetcode.com/problems/climbing-stairs
 122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.013351333174864208, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
@@ -524,7 +524,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 75,Sort Colors,47.3%,Medium,0.004992521603120986, https://leetcode.com/problems/sort-colors
 35,Search Insert Position,42.6%,Easy,0.004646848510375352, https://leetcode.com/problems/search-insert-position
 190,Reverse Bits,39.8%,Easy,0.004116549745909879, https://leetcode.com/problems/reverse-bits
-125,Valid Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
 28,Implement strStr(),34.5%,Easy,0.003943222775040032, https://leetcode.com/problems/implement-strstr
 977,Squares of a Sorted Array,72.1%,Easy,0.003891055492966611, https://leetcode.com/problems/squares-of-a-sorted-array
 141,Linked List Cycle,41.1%,Easy,0.0034937584669245472, https://leetcode.com/problems/linked-list-cycle

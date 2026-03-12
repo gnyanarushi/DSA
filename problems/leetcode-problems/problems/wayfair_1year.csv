@@ -10,6 +10,6 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 56,Merge Intervals,39.3%,Medium,0.0074386655924217485, https://leetcode.com/problems/merge-intervals
 412,Fizz Buzz,62.3%,Easy,0.006857561589870336, https://leetcode.com/problems/fizz-buzz
 69,Sqrt(x),33.9%,Easy,0.004881034705914313, https://leetcode.com/problems/sqrtx
-125,Valid Palindrome,36.7%,Easy,0.0037979536727587773, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.0037979536727587773, https://leetcode.com/problems/valid-palindrome
 5,Longest Palindromic Substring,29.5%,Medium,0.0021771085723255794, https://leetcode.com/problems/longest-palindromic-substring
 210,Course Schedule II,40.7%,Medium,0.0018850146957713153, https://leetcode.com/problems/course-schedule-ii

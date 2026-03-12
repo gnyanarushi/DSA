@@ -75,7 +75,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 42,Trapping Rain Water,48.9%,Hard,0.004350670338744988, https://leetcode.com/problems/trapping-rain-water
 322,Coin Change,35.5%,Medium,0.004029826126500844, https://leetcode.com/problems/coin-change
 189,Rotate Array,34.7%,Easy,0.004029826126500844, https://leetcode.com/problems/rotate-array
-125,Valid Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
 238,Product of Array Except Self,60.1%,Medium,0.003930436424724545, https://leetcode.com/problems/product-of-array-except-self
 139,Word Break,40.1%,Medium,0.003894465052690167, https://leetcode.com/problems/word-break
 103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,0.003839922800048048, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal

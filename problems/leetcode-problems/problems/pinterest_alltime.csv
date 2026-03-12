@@ -8,7 +8,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 224,Basic Calculator,36.8%,Hard,0.5668534552356532, https://leetcode.com/problems/basic-calculator
 632,Smallest Range Covering Elements from K Lists,52.4%,Hard,0.5071491490366821, https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
 68,Text Justification,27.7%,Hard,0.37052394220493184, https://leetcode.com/problems/text-justification
-564,Find the Closest Palindrome,19.7%,Hard,0.3007541540191337, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.3007541540191337, https://leetcode.com/problems/find-the-closest-palindrome
 254,Factor Combinations,46.7%,Medium,0.21357410029805904, https://leetcode.com/problems/factor-combinations
 126,Word Ladder II,22.1%,Hard,0.2008357460092558, https://leetcode.com/problems/word-ladder-ii
 718,Maximum Length of Repeated Subarray,49.4%,Medium,0.16528289916664798, https://leetcode.com/problems/maximum-length-of-repeated-subarray

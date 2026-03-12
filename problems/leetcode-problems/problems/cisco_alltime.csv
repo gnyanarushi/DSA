@@ -47,7 +47,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 384,Shuffle an Array,52.8%,Medium,0.03399118781703353, https://leetcode.com/problems/shuffle-an-array
 253,Meeting Rooms II,45.7%,Medium,0.03193246767820989, https://leetcode.com/problems/meeting-rooms-ii
 17,Letter Combinations of a Phone Number,46.8%,Medium,0.027199239804368825, https://leetcode.com/problems/letter-combinations-of-a-phone-number
-125,Valid Palindrome,36.7%,Easy,0.02462208292471368, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.02462208292471368, https://leetcode.com/problems/valid-palindrome
 605,Can Place Flowers,31.6%,Easy,0.02457126073050533, https://leetcode.com/problems/can-place-flowers
 151,Reverse Words in a String,21.9%,Medium,0.024321004216273485, https://leetcode.com/problems/reverse-words-in-a-string
 144,Binary Tree Preorder Traversal,55.7%,Medium,0.024170360927813044, https://leetcode.com/problems/binary-tree-preorder-traversal
@@ -55,7 +55,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 15,3Sum,26.8%,Medium,0.019619157889188592, https://leetcode.com/problems/3sum
 19,Remove Nth Node From End of List,35.2%,Medium,0.019074355670058666, https://leetcode.com/problems/remove-nth-node-from-end-of-list
 450,Delete Node in a BST,43.1%,Medium,0.018536211907915243, https://leetcode.com/problems/delete-node-in-a-bst
-234,Palindrome Linked List,39.3%,Easy,0.01801241989645556, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.01801241989645556, https://leetcode.com/problems/palindrome-linked-list
 412,Fizz Buzz,62.3%,Easy,0.016051709010507904, https://leetcode.com/problems/fizz-buzz
 110,Balanced Binary Tree,43.5%,Easy,0.015742847432510365, https://leetcode.com/problems/balanced-binary-tree
 7,Reverse Integer,25.8%,Easy,0.011576347096986317, https://leetcode.com/problems/reverse-integer

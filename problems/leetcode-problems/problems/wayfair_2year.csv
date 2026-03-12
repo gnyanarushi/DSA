@@ -11,7 +11,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 718,Maximum Length of Repeated Subarray,49.4%,Medium,0.02699219201435624, https://leetcode.com/problems/maximum-length-of-repeated-subarray
 5,Longest Palindromic Substring,29.5%,Medium,0.019425420619316486, https://leetcode.com/problems/longest-palindromic-substring
 184,Department Highest Salary,36.7%,Medium,0.018018505502678313, https://leetcode.com/problems/department-highest-salary
-125,Valid Palindrome,36.7%,Easy,0.015106027431013205, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.015106027431013205, https://leetcode.com/problems/valid-palindrome
 69,Sqrt(x),33.9%,Easy,0.010949014489670414, https://leetcode.com/problems/sqrtx
 56,Merge Intervals,39.3%,Medium,0.0074386655924217485, https://leetcode.com/problems/merge-intervals
 41,First Missing Positive,32.0%,Hard,0.006163347707668678, https://leetcode.com/problems/first-missing-positive

@@ -12,7 +12,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,2.2330774739793853, https://leetcode.com/problems/lru-cache
 262,Trips and Users,32.7%,Hard,2.179117086708829, https://leetcode.com/problems/trips-and-users
 56,Merge Intervals,39.3%,Medium,1.9856391826219157, https://leetcode.com/problems/merge-intervals
-267,Palindrome Permutation II,36.4%,Medium,1.9644220544755755, https://leetcode.com/problems/palindrome-permutation-ii
+267,start.Palindrome Permutation II,36.4%,Medium,1.9644220544755755, https://leetcode.com/problems/palindrome-permutation-ii
 36,Valid Sudoku,48.7%,Medium,1.96380460343855, https://leetcode.com/problems/valid-sudoku
 655,Print Binary Tree,55.0%,Medium,1.9142294173827312, https://leetcode.com/problems/print-binary-tree
 227,Basic Calculator II,36.9%,Medium,1.831507899537194, https://leetcode.com/problems/basic-calculator-ii
@@ -39,7 +39,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 139,Word Break,40.1%,Medium,1.1489605133291307, https://leetcode.com/problems/word-break
 286,Walls and Gates,54.5%,Medium,1.1385638280265375, https://leetcode.com/problems/walls-and-gates
 591,Tag Validator,34.3%,Hard,1.133098464739279, https://leetcode.com/problems/tag-validator
-336,Palindrome Pairs,33.7%,Hard,1.1081703064742152, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,1.1081703064742152, https://leetcode.com/problems/palindrome-pairs
 636,Exclusive Time of Functions,51.9%,Medium,1.070608304685468, https://leetcode.com/problems/exclusive-time-of-functions
 128,Longest Consecutive Sequence,45.1%,Hard,1.0687708064824162, https://leetcode.com/problems/longest-consecutive-sequence
 381,Insert Delete GetRandom O(1) - Duplicates allowed,34.1%,Hard,1.0261327161577256, https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
@@ -118,7 +118,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 11,Container With Most Water,50.8%,Medium,0.3160977539241027, https://leetcode.com/problems/container-with-most-water
 542,01 Matrix,39.8%,Medium,0.3127505293143989, https://leetcode.com/problems/01-matrix
 315,Count of Smaller Numbers After Self,41.5%,Hard,0.30851522790511515, https://leetcode.com/problems/count-of-smaller-numbers-after-self
-131,Palindrome Partitioning,47.5%,Medium,0.3001175559774547, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.3001175559774547, https://leetcode.com/problems/palindrome-partitioning
 311,Sparse Matrix Multiplication,61.9%,Medium,0.2957254800409785, https://leetcode.com/problems/sparse-matrix-multiplication
 74,Search a 2D Matrix,36.5%,Medium,0.29107845681405486, https://leetcode.com/problems/search-a-2d-matrix
 51,N-Queens,46.6%,Hard,0.28871459706597014, https://leetcode.com/problems/n-queens
@@ -159,7 +159,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 486,Predict the Winner,47.9%,Medium,0.17647417648741714, https://leetcode.com/problems/predict-the-winner
 135,Candy,31.6%,Hard,0.17296269248039503, https://leetcode.com/problems/candy
 24,Swap Nodes in Pairs,50.4%,Medium,0.1729418749687828, https://leetcode.com/problems/swap-nodes-in-pairs
-1278,Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
+1278,start.Palindrome Partitioning III,59.9%,Hard,0.17284281283941086, https://leetcode.com/problems/palindrome-partitioning-iii
 567,Permutation in String,44.4%,Medium,0.16931057302189864, https://leetcode.com/problems/permutation-in-string
 198,House Robber,42.0%,Easy,0.16929591377679865, https://leetcode.com/problems/house-robber
 69,Sqrt(x),33.9%,Easy,0.1690194941008683, https://leetcode.com/problems/sqrtx
@@ -209,13 +209,13 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 827,Making A Large Island,45.7%,Hard,0.09287412500644375, https://leetcode.com/problems/making-a-large-island
 826,Most Profit Assigning Work,38.5%,Medium,0.09287412500644375, https://leetcode.com/problems/most-profit-assigning-work
 236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.0913825929084002, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-266,Palindrome Permutation,61.9%,Easy,0.091248671465145, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,0.091248671465145, https://leetcode.com/problems/palindrome-permutation
 62,Unique Paths,54.1%,Medium,0.08965185882136445, https://leetcode.com/problems/unique-paths
 918,Maximum Sum Circular Subarray,33.7%,Medium,0.08881573371064024, https://leetcode.com/problems/maximum-sum-circular-subarray
 692,Top K Frequent Words,51.8%,Medium,0.08839354721658145, https://leetcode.com/problems/top-k-frequent-words
 7,Reverse Integer,25.8%,Easy,0.08735674450872549, https://leetcode.com/problems/reverse-integer
 150,Evaluate Reverse Polish Notation,36.3%,Medium,0.08523043261863501, https://leetcode.com/problems/evaluate-reverse-polish-notation
-564,Find the Closest Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
 909,Snakes and Ladders,38.4%,Medium,0.08392620769993404, https://leetcode.com/problems/snakes-and-ladders
 646,Maximum Length of Pair Chain,51.9%,Medium,0.08112554481236843, https://leetcode.com/problems/maximum-length-of-pair-chain
 376,Wiggle Subsequence,39.6%,Medium,0.08068891125014274, https://leetcode.com/problems/wiggle-subsequence
@@ -269,7 +269,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 66,Plus One,43.0%,Easy,0.039245846990968294, https://leetcode.com/problems/plus-one
 992,Subarrays with K Different Integers,48.6%,Hard,0.03700699810869683, https://leetcode.com/problems/subarrays-with-k-different-integers
 729,My Calendar I,51.8%,Medium,0.036433902246102004, https://leetcode.com/problems/my-calendar-i
-125,Valid Palindrome,36.7%,Easy,0.035266657982323354, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.035266657982323354, https://leetcode.com/problems/valid-palindrome
 152,Maximum Product Subarray,31.7%,Medium,0.034438665054543384, https://leetcode.com/problems/maximum-product-subarray
 177,Nth Highest Salary,31.4%,Medium,0.032054026290083464, https://leetcode.com/problems/nth-highest-salary
 1146,Snapshot Array,37.0%,Medium,0.0317991816929387, https://leetcode.com/problems/snapshot-array
@@ -305,5 +305,5 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1064,Fixed Point,66.5%,Easy,0, https://leetcode.com/problems/fixed-point
 1039,Minimum Score Triangulation of Polygon,49.1%,Medium,0, https://leetcode.com/problems/minimum-score-triangulation-of-polygon
 1334,Find the City With the Smallest Number of Neighbors at a Threshold Distance,44.5%,Medium,0, https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
-1400,Construct K Palindrome Strings,60.4%,Medium,0, https://leetcode.com/problems/construct-k-palindrome-strings
+1400,Construct K start.Palindrome Strings,60.4%,Medium,0, https://leetcode.com/problems/construct-k-palindrome-strings
 1462,Course Schedule IV,41.9%,Medium,0, https://leetcode.com/problems/course-schedule-iv

@@ -8,7 +8,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 91,Decode Ways,24.7%,Medium,4.926071339059624, https://leetcode.com/problems/decode-ways
 253,Meeting Rooms II,45.7%,Medium,4.890863444823654, https://leetcode.com/problems/meeting-rooms-ii
 238,Product of Array Except Self,60.1%,Medium,4.787304832474671, https://leetcode.com/problems/product-of-array-except-self
-680,Valid Palindrome II,36.6%,Easy,4.727432294246022, https://leetcode.com/problems/valid-palindrome-ii
+680,Valid start.Palindrome II,36.6%,Easy,4.727432294246022, https://leetcode.com/problems/valid-palindrome-ii
 15,3Sum,26.8%,Medium,4.716880252749641, https://leetcode.com/problems/3sum
 560,Subarray Sum Equals K,43.9%,Medium,4.681694359055468, https://leetcode.com/problems/subarray-sum-equals-k
 278,First Bad Version,35.7%,Easy,4.667124795676079, https://leetcode.com/problems/first-bad-version
@@ -18,7 +18,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 23,Merge k Sorted Lists,40.2%,Hard,4.540902119231776, https://leetcode.com/problems/merge-k-sorted-lists
 283,Move Zeroes,57.8%,Easy,4.539910062491303, https://leetcode.com/problems/move-zeroes
 1249,Minimum Remove to Make Valid Parentheses,62.5%,Medium,4.510651510608414, https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
-125,Valid Palindrome,36.7%,Easy,4.472291401117124, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,4.472291401117124, https://leetcode.com/problems/valid-palindrome
 29,Divide Two Integers,16.4%,Medium,4.451722795491452, https://leetcode.com/problems/divide-two-integers
 31,Next Permutation,32.6%,Medium,4.413309355076113, https://leetcode.com/problems/next-permutation
 173,Binary Search Tree Iterator,56.6%,Medium,4.402058148743651, https://leetcode.com/problems/binary-search-tree-iterator
@@ -39,7 +39,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 311,Sparse Matrix Multiplication,61.9%,Medium,3.8291843732203814, https://leetcode.com/problems/sparse-matrix-multiplication
 415,Add Strings,47.5%,Easy,3.823224938890351, https://leetcode.com/problems/add-strings
 200,Number of Islands,46.8%,Medium,3.8178638361422226, https://leetcode.com/problems/number-of-islands
-336,Palindrome Pairs,33.7%,Hard,3.774867877530413, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,3.774867877530413, https://leetcode.com/problems/palindrome-pairs
 215,Kth Largest Element in an Array,55.4%,Medium,3.7586134025612274, https://leetcode.com/problems/kth-largest-element-in-an-array
 543,Diameter of Binary Tree,48.4%,Easy,3.7178469184757565, https://leetcode.com/problems/diameter-of-binary-tree
 257,Binary Tree Paths,51.5%,Easy,3.692630656645929, https://leetcode.com/problems/binary-tree-paths
@@ -176,7 +176,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 212,Word Search II,34.9%,Hard,1.3504762128004113, https://leetcode.com/problems/word-search-ii
 18,4Sum,33.7%,Medium,1.3502929904861851, https://leetcode.com/problems/4sum
 295,Find Median from Data Stream,44.3%,Hard,1.3266403133417946, https://leetcode.com/problems/find-median-from-data-stream
-266,Palindrome Permutation,61.9%,Easy,1.313084238269434, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,1.313084238269434, https://leetcode.com/problems/palindrome-permutation
 332,Reconstruct Itinerary,36.7%,Medium,1.3122929249487976, https://leetcode.com/problems/reconstruct-itinerary
 536,Construct Binary Tree from String,48.3%,Medium,1.3037077701106166, https://leetcode.com/problems/construct-binary-tree-from-string
 192,Word Frequency,25.8%,Medium,1.3031749861241555, https://leetcode.com/problems/word-frequency
@@ -247,7 +247,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 387,First Unique Character in a String,53.4%,Easy,0.8261344910474214, https://leetcode.com/problems/first-unique-character-in-a-string
 129,Sum Root to Leaf Numbers,49.1%,Medium,0.8250747236024935, https://leetcode.com/problems/sum-root-to-leaf-numbers
 145,Binary Tree Postorder Traversal,55.0%,Hard,0.8218702184282537, https://leetcode.com/problems/binary-tree-postorder-traversal
-1216,Valid Palindrome III,47.8%,Hard,0.8187244879431477, https://leetcode.com/problems/valid-palindrome-iii
+1216,Valid start.Palindrome III,47.8%,Hard,0.8187244879431477, https://leetcode.com/problems/valid-palindrome-iii
 977,Squares of a Sorted Array,72.1%,Easy,0.8167611365271219, https://leetcode.com/problems/squares-of-a-sorted-array
 148,Sort List,42.3%,Medium,0.8074813963689672, https://leetcode.com/problems/sort-list
 405,Convert a Number to Hexadecimal,43.9%,Easy,0.8060996223222796, https://leetcode.com/problems/convert-a-number-to-hexadecimal
@@ -285,7 +285,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 875,Koko Eating Bananas,52.1%,Medium,0.5548950868004853, https://leetcode.com/problems/koko-eating-bananas
 19,Remove Nth Node From End of List,35.2%,Medium,0.5540320786995547, https://leetcode.com/problems/remove-nth-node-from-end-of-list
 742,Closest Leaf in a Binary Tree,43.6%,Medium,0.5486958978214005, https://leetcode.com/problems/closest-leaf-in-a-binary-tree
-214,Shortest Palindrome,29.8%,Hard,0.5331825308672672, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.5331825308672672, https://leetcode.com/problems/shortest-palindrome
 47,Permutations II,46.4%,Medium,0.5319853456599372, https://leetcode.com/problems/permutations-ii
 45,Jump Game II,30.6%,Hard,0.5265290156944407, https://leetcode.com/problems/jump-game-ii
 248,Strobogrammatic Number III,39.6%,Hard,0.5138062519041285, https://leetcode.com/problems/strobogrammatic-number-iii
@@ -310,7 +310,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1008,Construct Binary Search Tree from Preorder Traversal,78.4%,Medium,0.44664069296978226, https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal
 63,Unique Paths II,34.6%,Medium,0.4447194776965593, https://leetcode.com/problems/unique-paths-ii
 108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.4427274468005625, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
-564,Find the Closest Palindrome,19.7%,Hard,0.43712242797885603, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.43712242797885603, https://leetcode.com/problems/find-the-closest-palindrome
 491,Increasing Subsequences,46.1%,Medium,0.4337197757657639, https://leetcode.com/problems/increasing-subsequences
 189,Rotate Array,34.7%,Easy,0.42789160115933317, https://leetcode.com/problems/rotate-array
 77,Combinations,54.7%,Medium,0.42763619580710505, https://leetcode.com/problems/combinations
@@ -368,7 +368,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 210,Course Schedule II,40.7%,Medium,0.26122098917206793, https://leetcode.com/problems/course-schedule-ii
 505,The Maze II,47.7%,Medium,0.2590886081881086, https://leetcode.com/problems/the-maze-ii
 663,Equal Tree Partition,39.5%,Medium,0.2578291093020998, https://leetcode.com/problems/equal-tree-partition
-234,Palindrome Linked List,39.3%,Easy,0.25526989045710297, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.25526989045710297, https://leetcode.com/problems/palindrome-linked-list
 446,Arithmetic Slices II - Subsequence,32.7%,Hard,0.25416851512733507, https://leetcode.com/problems/arithmetic-slices-ii-subsequence
 609,Find Duplicate File in System,59.5%,Medium,0.25388017696233983, https://leetcode.com/problems/find-duplicate-file-in-system
 168,Excel Sheet Column Title,31.1%,Easy,0.24683273722531368, https://leetcode.com/problems/excel-sheet-column-title
@@ -407,7 +407,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 889,Construct Binary Tree from Preorder and Postorder Traversal,66.2%,Medium,0.18315872720701828, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal
 593,Valid Square,43.1%,Medium,0.181905842799192, https://leetcode.com/problems/valid-square
 916,Word Subsets,47.8%,Medium,0.181583821607415, https://leetcode.com/problems/word-subsets
-9,Palindrome Number,48.4%,Easy,0.17791287714642806, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.17791287714642806, https://leetcode.com/problems/palindrome-number
 130,Surrounded Regions,28.1%,Medium,0.17613332483584074, https://leetcode.com/problems/surrounded-regions
 328,Odd Even Linked List,55.7%,Medium,0.17548836529558792, https://leetcode.com/problems/odd-even-linked-list
 843,Guess the Word,46.1%,Hard,0.17062551703076334, https://leetcode.com/problems/guess-the-word

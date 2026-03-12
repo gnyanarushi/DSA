@@ -68,7 +68,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 88,Merge Sorted Array,39.4%,Easy,0.0362653520190164, https://leetcode.com/problems/merge-sorted-array
 189,Rotate Array,34.7%,Easy,0.03569682997206547, https://leetcode.com/problems/rotate-array
 21,Merge Two Sorted Lists,53.5%,Easy,0.03548634253021285, https://leetcode.com/problems/merge-two-sorted-lists
-125,Valid Palindrome,36.7%,Easy,0.035266657982323354, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.035266657982323354, https://leetcode.com/problems/valid-palindrome
 39,Combination Sum,56.1%,Medium,0.035200029965399685, https://leetcode.com/problems/combination-sum
 173,Binary Search Tree Iterator,56.6%,Medium,0.03353206029057467, https://leetcode.com/problems/binary-search-tree-iterator
 300,Longest Increasing Subsequence,42.6%,Medium,0.03245773693742074, https://leetcode.com/problems/longest-increasing-subsequence

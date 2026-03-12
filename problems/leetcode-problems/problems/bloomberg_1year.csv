@@ -64,7 +64,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1297,Maximum Number of Occurrences of a Substring,47.3%,Medium,0.07770898432731625, https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
 1347,Minimum Number of Steps to Make Two Strings Anagram,74.7%,Medium,0.07742472477971579, https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
 399,Evaluate Division,51.6%,Medium,0.07536521894921006, https://leetcode.com/problems/evaluate-division
-214,Shortest Palindrome,29.8%,Hard,0.0753494372417868, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.0753494372417868, https://leetcode.com/problems/shortest-palindrome
 49,Group Anagrams,56.9%,Medium,0.07434615245733686, https://leetcode.com/problems/group-anagrams
 79,Word Search,35.6%,Medium,0.06802605972322294, https://leetcode.com/problems/word-search
 199,Binary Tree Right Side View,54.1%,Medium,0.06748154336946242, https://leetcode.com/problems/binary-tree-right-side-view
@@ -89,7 +89,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 286,Walls and Gates,54.5%,Medium,0.05155780966485001, https://leetcode.com/problems/walls-and-gates
 708,Insert into a Sorted Circular Linked List,31.6%,Medium,0.05142521180743711, https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
 84,Largest Rectangle in Histogram,35.2%,Hard,0.051000241824383195, https://leetcode.com/problems/largest-rectangle-in-histogram
-1312,Minimum Insertion Steps to Make a String Palindrome,58.1%,Hard,0.050261834780888255, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1312,Minimum Insertion Steps to Make a String start.Palindrome,58.1%,Hard,0.050261834780888255, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
 269,Alien Dictionary,33.3%,Hard,0.04997917057465883, https://leetcode.com/problems/alien-dictionary
 285,Inorder Successor in BST,40.4%,Medium,0.049569618859417214, https://leetcode.com/problems/inorder-successor-in-bst
 518,Coin Change 2,50.2%,Medium,0.04919528672454412, https://leetcode.com/problems/coin-change-2
@@ -117,7 +117,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 250,Count Univalue Subtrees,52.0%,Medium,0.036235848454044865, https://leetcode.com/problems/count-univalue-subtrees
 71,Simplify Path,32.6%,Medium,0.03622126343431837, https://leetcode.com/problems/simplify-path
 650,2 Keys Keyboard,49.2%,Medium,0.035910501305770864, https://leetcode.com/problems/2-keys-keyboard
-125,Valid Palindrome,36.7%,Easy,0.035266657982323354, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.035266657982323354, https://leetcode.com/problems/valid-palindrome
 4,Median of Two Sorted Arrays,29.6%,Hard,0.034565653112280895, https://leetcode.com/problems/median-of-two-sorted-arrays
 274,H-Index,36.1%,Medium,0.03364488914272426, https://leetcode.com/problems/h-index
 209,Minimum Size Subarray Sum,38.2%,Medium,0.033239453928687726, https://leetcode.com/problems/minimum-size-subarray-sum
@@ -150,7 +150,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 721,Accounts Merge,48.8%,Medium,0.01888630262874805, https://leetcode.com/problems/accounts-merge
 532,K-diff Pairs in an Array,31.6%,Easy,0.018735911057469818, https://leetcode.com/problems/k-diff-pairs-in-an-array
 450,Delete Node in a BST,43.1%,Medium,0.018536211907915243, https://leetcode.com/problems/delete-node-in-a-bst
-234,Palindrome Linked List,39.3%,Easy,0.01801241989645556, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.01801241989645556, https://leetcode.com/problems/palindrome-linked-list
 126,Word Ladder II,22.1%,Hard,0.017994187717865196, https://leetcode.com/problems/word-ladder-ii
 6,ZigZag Conversion,36.3%,Medium,0.01726827253226344, https://leetcode.com/problems/zigzag-conversion
 415,Add Strings,47.5%,Easy,0.016991158247219373, https://leetcode.com/problems/add-strings
@@ -178,7 +178,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 152,Maximum Product Subarray,31.7%,Medium,0.012534983069696118, https://leetcode.com/problems/maximum-product-subarray
 112,Path Sum,41.2%,Easy,0.012265076074932503, https://leetcode.com/problems/path-sum
 437,Path Sum III,47.2%,Medium,0.012128711446614806, https://leetcode.com/problems/path-sum-iii
-9,Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
 273,Integer to English Words,27.1%,Hard,0.012081089250339716, https://leetcode.com/problems/integer-to-english-words
 81,Search in Rotated Sorted Array II,33.0%,Medium,0.011689203815677656, https://leetcode.com/problems/search-in-rotated-sorted-array-ii
 123,Best Time to Buy and Sell Stock III,37.5%,Hard,0.011261380272539033, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii

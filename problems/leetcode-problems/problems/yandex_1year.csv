@@ -2,7 +2,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 281,Zigzag Iterator,58.4%,Medium,0.14442795545557569, https://leetcode.com/problems/zigzag-iterator
 487,Max Consecutive Ones II,48.5%,Medium,0.10973238837921641, https://leetcode.com/problems/max-consecutive-ones-ii
 283,Move Zeroes,57.8%,Easy,0.08025517978737091, https://leetcode.com/problems/move-zeroes
-125,Valid Palindrome,36.7%,Easy,0.04555961271101164, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.04555961271101164, https://leetcode.com/problems/valid-palindrome
 933,Number of Recent Calls,71.9%,Easy,0.04470017891790688, https://leetcode.com/problems/number-of-recent-calls
 1004,Max Consecutive Ones III,59.1%,Medium,0.039340737501221655, https://leetcode.com/problems/max-consecutive-ones-iii
 380,Insert Delete GetRandom O(1),47.5%,Medium,0.03685354875882915, https://leetcode.com/problems/insert-delete-getrandom-o1

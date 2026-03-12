@@ -34,7 +34,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 56,Merge Intervals,39.3%,Medium,0.08339552430579078, https://leetcode.com/problems/merge-intervals
 1297,Maximum Number of Occurrences of a Substring,47.3%,Medium,0.07770898432731625, https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
 1347,Minimum Number of Steps to Make Two Strings Anagram,74.7%,Medium,0.07742472477971579, https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
-214,Shortest Palindrome,29.8%,Hard,0.0753494372417868, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.0753494372417868, https://leetcode.com/problems/shortest-palindrome
 463,Island Perimeter,65.7%,Easy,0.06646080650226213, https://leetcode.com/problems/island-perimeter
 1145,Binary Tree Coloring Game,51.2%,Medium,0.06592172080482424, https://leetcode.com/problems/binary-tree-coloring-game
 242,Valid Anagram,56.9%,Easy,0.06447998055429512, https://leetcode.com/problems/valid-anagram
@@ -45,7 +45,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1054,Distant Barcodes,43.2%,Medium,0.054435206555017046, https://leetcode.com/problems/distant-barcodes
 12,Integer to Roman,55.1%,Medium,0.05217122936969127, https://leetcode.com/problems/integer-to-roman
 286,Walls and Gates,54.5%,Medium,0.05155780966485001, https://leetcode.com/problems/walls-and-gates
-1312,Minimum Insertion Steps to Make a String Palindrome,58.1%,Hard,0.050261834780888255, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1312,Minimum Insertion Steps to Make a String start.Palindrome,58.1%,Hard,0.050261834780888255, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
 10,Regular Expression Matching,26.8%,Hard,0.04409107726484965, https://leetcode.com/problems/regular-expression-matching
 140,Word Break II,32.6%,Hard,0.04245795568707049, https://leetcode.com/problems/word-break-ii
 1155,Number of Dice Rolls With Target Sum,49.0%,Medium,0.04204262329555109, https://leetcode.com/problems/number-of-dice-rolls-with-target-sum
@@ -110,10 +110,10 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 123,Best Time to Buy and Sell Stock III,37.5%,Hard,0.011261380272539033, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 338,Counting Bits,69.5%,Medium,0.01088446119842327, https://leetcode.com/problems/counting-bits
 92,Reverse Linked List II,38.8%,Medium,0.010427623162259089, https://leetcode.com/problems/reverse-linked-list-ii
-234,Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
 621,Task Scheduler,50.1%,Medium,0.009334412329990095, https://leetcode.com/problems/task-scheduler
 1249,Minimum Remove to Make Valid Parentheses,62.5%,Medium,0.009195467093100304, https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
-125,Valid Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
 49,Group Anagrams,56.9%,Medium,0.008538951314232168, https://leetcode.com/problems/group-anagrams
 173,Binary Search Tree Iterator,56.6%,Medium,0.008489015324911316, https://leetcode.com/problems/binary-search-tree-iterator
 153,Find Minimum in Rotated Sorted Array,45.1%,Medium,0.008430963288799368, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array

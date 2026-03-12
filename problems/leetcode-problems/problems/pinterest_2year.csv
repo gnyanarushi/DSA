@@ -5,7 +5,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 770,Basic Calculator IV,48.1%,Hard,0.538996500732687, https://leetcode.com/problems/basic-calculator-iv
 632,Smallest Range Covering Elements from K Lists,52.4%,Hard,0.37755631999108785, https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
 362,Design Hit Counter,63.7%,Medium,0.34451909789108437, https://leetcode.com/problems/design-hit-counter
-564,Find the Closest Palindrome,19.7%,Hard,0.3007541540191337, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.3007541540191337, https://leetcode.com/problems/find-the-closest-palindrome
 224,Basic Calculator,36.8%,Hard,0.23074173054528113, https://leetcode.com/problems/basic-calculator
 269,Alien Dictionary,33.3%,Hard,0.2306743801916798, https://leetcode.com/problems/alien-dictionary
 718,Maximum Length of Repeated Subarray,49.4%,Medium,0.16528289916664798, https://leetcode.com/problems/maximum-length-of-repeated-subarray

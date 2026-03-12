@@ -84,7 +84,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 128,Longest Consecutive Sequence,45.1%,Hard,0.035726058864721646, https://leetcode.com/problems/longest-consecutive-sequence
 295,Find Median from Data Stream,44.3%,Hard,0.035519827248535335, https://leetcode.com/problems/find-median-from-data-stream
 4,Median of Two Sorted Arrays,29.6%,Hard,0.034565653112280895, https://leetcode.com/problems/median-of-two-sorted-arrays
-214,Shortest Palindrome,29.8%,Hard,0.03419136474827932, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.03419136474827932, https://leetcode.com/problems/shortest-palindrome
 12,Integer to Roman,55.1%,Medium,0.03370158881097552, https://leetcode.com/problems/integer-to-roman
 209,Minimum Size Subarray Sum,38.2%,Medium,0.033239453928687726, https://leetcode.com/problems/minimum-size-subarray-sum
 694,Number of Distinct Islands,56.0%,Medium,0.03278982282299087, https://leetcode.com/problems/number-of-distinct-islands
@@ -110,7 +110,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 242,Valid Anagram,56.9%,Easy,0.025684584297773504, https://leetcode.com/problems/valid-anagram
 41,First Missing Positive,32.0%,Hard,0.02540222313806603, https://leetcode.com/problems/first-missing-positive
 322,Coin Change,35.5%,Medium,0.024924029676386045, https://leetcode.com/problems/coin-change
-125,Valid Palindrome,36.7%,Easy,0.02462208292471368, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.02462208292471368, https://leetcode.com/problems/valid-palindrome
 215,Kth Largest Element in an Array,55.4%,Medium,0.02414409892936099, https://leetcode.com/problems/kth-largest-element-in-an-array
 844,Backspace String Compare,46.4%,Easy,0.0235551325028849, https://leetcode.com/problems/backspace-string-compare
 49,Group Anagrams,56.9%,Medium,0.02354157682187747, https://leetcode.com/problems/group-anagrams
@@ -185,7 +185,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 14,Longest Common Prefix,35.4%,Easy,0.00745530292090591, https://leetcode.com/problems/longest-common-prefix
 344,Reverse String,68.5%,Easy,0.00734157796234515, https://leetcode.com/problems/reverse-string
 36,Valid Sudoku,48.7%,Medium,0.007258242715805398, https://leetcode.com/problems/valid-sudoku
-9,Palindrome Number,48.4%,Easy,0.006822343017166543, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.006822343017166543, https://leetcode.com/problems/palindrome-number
 103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,0.006816368572598042, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 29,Divide Two Integers,16.4%,Medium,0.006772799340092467, https://leetcode.com/problems/divide-two-integers
 79,Word Search,35.6%,Medium,0.006642335946304871, https://leetcode.com/problems/word-search

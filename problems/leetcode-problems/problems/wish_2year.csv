@@ -26,6 +26,6 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 207,Course Schedule,43.1%,Medium,0.004964021114211758, https://leetcode.com/problems/course-schedule
 146,LRU Cache,33.2%,Medium,0.004600353139061353, https://leetcode.com/problems/lru-cache
 560,Subarray Sum Equals K,43.9%,Medium,0.004279454482267064, https://leetcode.com/problems/subarray-sum-equals-k
-125,Valid Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
 2,Add Two Numbers,33.9%,Medium,0.0016886191111440908, https://leetcode.com/problems/add-two-numbers
 1,Two Sum,45.6%,Easy,0.0008206138651873125, https://leetcode.com/problems/two-sum

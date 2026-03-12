@@ -6,7 +6,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 403,Frog Jump,39.7%,Hard,0.1519909531790461, https://leetcode.com/problems/frog-jump
 402,Remove K Digits,28.4%,Medium,0.14242034004176865, https://leetcode.com/problems/remove-k-digits
 826,Most Profit Assigning Work,38.5%,Medium,0.09287412500644375, https://leetcode.com/problems/most-profit-assigning-work
-564,Find the Closest Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.0840831172105414, https://leetcode.com/problems/find-the-closest-palindrome
 273,Integer to English Words,27.1%,Hard,0.04747257415466348, https://leetcode.com/problems/integer-to-english-words
 703,Kth Largest Element in a Stream,49.7%,Easy,0.031004894819414507, https://leetcode.com/problems/kth-largest-element-in-a-stream
 316,Remove Duplicate Letters,35.8%,Hard,0.030443751414723153, https://leetcode.com/problems/remove-duplicate-letters
@@ -30,7 +30,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 138,Copy List with Random Pointer,36.4%,Medium,0.006191011880825271, https://leetcode.com/problems/copy-list-with-random-pointer
 621,Task Scheduler,50.1%,Medium,0.005261323957171611, https://leetcode.com/problems/task-scheduler
 146,LRU Cache,33.2%,Medium,0.004600353139061353, https://leetcode.com/problems/lru-cache
-234,Palindrome Linked List,39.3%,Easy,0.004533613114828982, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.004533613114828982, https://leetcode.com/problems/palindrome-linked-list
 49,Group Anagrams,56.9%,Medium,0.0038040939835560453, https://leetcode.com/problems/group-anagrams
 283,Move Zeroes,57.8%,Easy,0.0028853803470673955, https://leetcode.com/problems/move-zeroes
 5,Longest Palindromic Substring,29.5%,Medium,0.002279333142507479, https://leetcode.com/problems/longest-palindromic-substring

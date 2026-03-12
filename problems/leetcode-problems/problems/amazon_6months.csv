@@ -48,7 +48,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 227,Basic Calculator II,36.9%,Medium,0.47707464048628756, https://leetcode.com/problems/basic-calculator-ii
 815,Bus Routes,42.5%,Hard,0.46566970439379607, https://leetcode.com/problems/bus-routes
 465,Optimal Account Balancing,46.9%,Hard,0.44746022914476763, https://leetcode.com/problems/optimal-account-balancing
-564,Find the Closest Palindrome,19.7%,Hard,0.43712242797885603, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.43712242797885603, https://leetcode.com/problems/find-the-closest-palindrome
 5,Longest Palindromic Substring,29.5%,Medium,0.43711515550369573, https://leetcode.com/problems/longest-palindromic-substring
 642,Design Search Autocomplete System,44.7%,Hard,0.43349242036282026, https://leetcode.com/problems/design-search-autocomplete-system
 17,Letter Combinations of a Phone Number,46.8%,Medium,0.42775086183255473, https://leetcode.com/problems/letter-combinations-of-a-phone-number
@@ -282,11 +282,11 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 538,Convert BST to Greater Tree,55.4%,Easy,0.05475820397384584, https://leetcode.com/problems/convert-bst-to-greater-tree
 983,Minimum Cost For Tickets,60.5%,Medium,0.05469163590186561, https://leetcode.com/problems/minimum-cost-for-tickets
 443,String Compression,41.3%,Easy,0.05450940566837169, https://leetcode.com/problems/string-compression
-131,Palindrome Partitioning,47.5%,Medium,0.05449083692828802, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.05449083692828802, https://leetcode.com/problems/palindrome-partitioning
 703,Kth Largest Element in a Stream,49.7%,Easy,0.054472280837981495, https://leetcode.com/problems/kth-largest-element-in-a-stream
 179,Largest Number,28.8%,Medium,0.0543427413161019, https://leetcode.com/problems/largest-number
 310,Minimum Height Trees,32.3%,Medium,0.05423015406086025, https://leetcode.com/problems/minimum-height-trees
-234,Palindrome Linked List,39.3%,Easy,0.05416885609643319, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.05416885609643319, https://leetcode.com/problems/palindrome-linked-list
 329,Longest Increasing Path in a Matrix,43.4%,Hard,0.052557250738676044, https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 581,Shortest Unsorted Continuous Subarray,31.1%,Easy,0.052333720049023605, https://leetcode.com/problems/shortest-unsorted-continuous-subarray
 209,Minimum Size Subarray Sum,38.2%,Medium,0.05146227039335983, https://leetcode.com/problems/minimum-size-subarray-sum
@@ -306,7 +306,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1153,String Transforms Into Another String,35.8%,Hard,0.04861224405509378, https://leetcode.com/problems/string-transforms-into-another-string
 407,Trapping Rain Water II,42.4%,Hard,0.04797082778602956, https://leetcode.com/problems/trapping-rain-water-ii
 986,Interval List Intersections,67.3%,Medium,0.04703983015489417, https://leetcode.com/problems/interval-list-intersections
-336,Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
+336,start.Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
 698,Partition to K Equal Sum Subsets,45.0%,Medium,0.04685917114094188, https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 556,Next Greater Element III,31.7%,Medium,0.04679216150675895, https://leetcode.com/problems/next-greater-element-iii
 359,Logger Rate Limiter,70.8%,Easy,0.0467617659080393, https://leetcode.com/problems/logger-rate-limiter
@@ -367,7 +367,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 951,Flip Equivalent Binary Trees,65.8%,Medium,0.025269822188076344, https://leetcode.com/problems/flip-equivalent-binary-trees
 232,Implement Queue using Stacks,49.6%,Easy,0.025119936515296634, https://leetcode.com/problems/implement-queue-using-stacks
 785,Is Graph Bipartite?,47.5%,Medium,0.02510592113107633, https://leetcode.com/problems/is-graph-bipartite
-132,Palindrome Partitioning II,30.2%,Hard,0.024436157849456068, https://leetcode.com/problems/palindrome-partitioning-ii
+132,start.Palindrome Partitioning II,30.2%,Hard,0.024436157849456068, https://leetcode.com/problems/palindrome-partitioning-ii
 714,Best Time to Buy and Sell Stock with Transaction Fee,54.7%,Medium,0.024258315059789946, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
 836,Rectangle Overlap,48.6%,Easy,0.024228925974379843, https://leetcode.com/problems/rectangle-overlap
 395,Longest Substring with At Least K Repeating Characters,41.4%,Medium,0.024228925974379843, https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
@@ -428,7 +428,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 852,Peak Index in a Mountain Array,71.6%,Easy,0.012618463959211509, https://leetcode.com/problems/peak-index-in-a-mountain-array
 108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.012453461071286613, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
 167,Two Sum II - Input array is sorted,54.1%,Easy,0.012349223898473458, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
-9,Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
 81,Search in Rotated Sorted Array II,33.0%,Medium,0.011689203815677656, https://leetcode.com/problems/search-in-rotated-sorted-array-ii
 350,Intersection of Two Arrays II,51.4%,Easy,0.01168540951877908, https://leetcode.com/problems/intersection-of-two-arrays-ii
 136,Single Number,65.5%,Easy,0.011429512235126808, https://leetcode.com/problems/single-number
@@ -441,7 +441,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 40,Combination Sum II,48.2%,Medium,0.009578617297069781, https://leetcode.com/problems/combination-sum-ii
 106,Construct Binary Tree from Inorder and Postorder Traversal,47.2%,Medium,0.009328969762346678, https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
 189,Rotate Array,34.7%,Easy,0.00904437880665999, https://leetcode.com/problems/rotate-array
-125,Valid Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
 953,Verifying an Alien Dictionary,54.1%,Easy,0.007884921592696038, https://leetcode.com/problems/verifying-an-alien-dictionary
 141,Linked List Cycle,41.1%,Easy,0.007843861028908454, https://leetcode.com/problems/linked-list-cycle
 1344,Angle Between Hands of a Clock,61.4%,Medium,0.007795031188053973, https://leetcode.com/problems/angle-between-hands-of-a-clock

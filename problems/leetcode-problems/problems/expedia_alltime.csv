@@ -43,6 +43,6 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 611,Valid Triangle Number,48.4%,Medium,0, https://leetcode.com/problems/valid-triangle-number
 1101,The Earliest Moment When Everyone Become Friends,66.3%,Medium,0, https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
 1151,Minimum Swaps to Group All 1's Together,59.3%,Medium,0, https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
-1328,Break a Palindrome,43.3%,Medium,0, https://leetcode.com/problems/break-a-palindrome
+1328,Break a start.Palindrome,43.3%,Medium,0, https://leetcode.com/problems/break-a-palindrome
 1451,Rearrange Words in a Sentence,54.8%,Medium,0, https://leetcode.com/problems/rearrange-words-in-a-sentence
 1492,The kth Factor of n,67.9%,Medium,0, https://leetcode.com/problems/the-kth-factor-of-n

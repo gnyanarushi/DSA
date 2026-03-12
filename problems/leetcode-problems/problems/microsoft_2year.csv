@@ -50,7 +50,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 99,Recover Binary Search Tree,39.7%,Hard,0.686991511115002, https://leetcode.com/problems/recover-binary-search-tree
 24,Swap Nodes in Pairs,50.4%,Medium,0.6806651721326015, https://leetcode.com/problems/swap-nodes-in-pairs
 116,Populating Next Right Pointers in Each Node,45.2%,Medium,0.679990315148951, https://leetcode.com/problems/populating-next-right-pointers-in-each-node
-1246,Palindrome Removal,46.0%,Hard,0.6794349186959634, https://leetcode.com/problems/palindrome-removal
+1246,start.Palindrome Removal,46.0%,Hard,0.6794349186959634, https://leetcode.com/problems/palindrome-removal
 419,Battleships in a Board,70.0%,Medium,0.6477023182379538, https://leetcode.com/problems/battleships-in-a-board
 295,Find Median from Data Stream,44.3%,Hard,0.6439331977785325, https://leetcode.com/problems/find-median-from-data-stream
 636,Exclusive Time of Functions,51.9%,Medium,0.6405393293662573, https://leetcode.com/problems/exclusive-time-of-functions
@@ -63,7 +63,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,0.5948482012213536, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 17,Letter Combinations of a Phone Number,46.8%,Medium,0.5900144916124695, https://leetcode.com/problems/letter-combinations-of-a-phone-number
 772,Basic Calculator III,41.3%,Hard,0.5881497072005337, https://leetcode.com/problems/basic-calculator-iii
-564,Find the Closest Palindrome,19.7%,Hard,0.581921545449721, https://leetcode.com/problems/find-the-closest-palindrome
+564,Find the Closest start.Palindrome,19.7%,Hard,0.581921545449721, https://leetcode.com/problems/find-the-closest-palindrome
 20,Valid Parentheses,39.0%,Easy,0.581252372040232, https://leetcode.com/problems/valid-parentheses
 155,Min Stack,44.5%,Easy,0.5560563077098069, https://leetcode.com/problems/min-stack
 36,Valid Sudoku,48.7%,Medium,0.5472335928516195, https://leetcode.com/problems/valid-sudoku
@@ -120,7 +120,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 227,Basic Calculator II,36.9%,Medium,0.320210254787433, https://leetcode.com/problems/basic-calculator-ii
 92,Reverse Linked List II,38.8%,Medium,0.3201675275962693, https://leetcode.com/problems/reverse-linked-list-ii
 79,Word Search,35.6%,Medium,0.31836284819083, https://leetcode.com/problems/word-search
-234,Palindrome Linked List,39.3%,Easy,0.3133910057995738, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.3133910057995738, https://leetcode.com/problems/palindrome-linked-list
 346,Moving Average from Data Stream,70.9%,Easy,0.3081922191359908, https://leetcode.com/problems/moving-average-from-data-stream
 76,Minimum Window Substring,34.6%,Hard,0.3013019791670516, https://leetcode.com/problems/minimum-window-substring
 235,Lowest Common Ancestor of a Binary Search Tree,49.9%,Easy,0.29906505953500556, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
@@ -146,7 +146,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 863,All Nodes Distance K in Binary Tree,55.4%,Medium,0.24186418612910326, https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
 716,Max Stack,42.6%,Easy,0.24108416003009112, https://leetcode.com/problems/max-stack
 692,Top K Frequent Words,51.8%,Medium,0.24027250894503516, https://leetcode.com/problems/top-k-frequent-words
-266,Palindrome Permutation,61.9%,Easy,0.235382573048932, https://leetcode.com/problems/palindrome-permutation
+266,start.Palindrome Permutation,61.9%,Easy,0.235382573048932, https://leetcode.com/problems/palindrome-permutation
 344,Reverse String,68.5%,Easy,0.23528503471044915, https://leetcode.com/problems/reverse-string
 917,Reverse Only Letters,58.0%,Easy,0.23240287672700652, https://leetcode.com/problems/reverse-only-letters
 768,Max Chunks To Make Sorted II,48.7%,Hard,0.22767870647960103, https://leetcode.com/problems/max-chunks-to-make-sorted-ii
@@ -171,7 +171,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 71,Simplify Path,32.6%,Medium,0.18300438372386543, https://leetcode.com/problems/simplify-path
 759,Employee Free Time,66.3%,Hard,0.1816986978513639, https://leetcode.com/problems/employee-free-time
 189,Rotate Array,34.7%,Easy,0.18053653367040554, https://leetcode.com/problems/rotate-array
-125,Valid Palindrome,36.7%,Easy,0.1785086666194453, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.1785086666194453, https://leetcode.com/problems/valid-palindrome
 45,Jump Game II,30.6%,Hard,0.1775138552258515, https://leetcode.com/problems/jump-game-ii
 28,Implement strStr(),34.5%,Easy,0.17697342084154793, https://leetcode.com/problems/implement-strstr
 773,Sliding Puzzle,59.3%,Hard,0.17627924233799203, https://leetcode.com/problems/sliding-puzzle
@@ -208,7 +208,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 26,Remove Duplicates from Sorted Array,45.1%,Easy,0.13201038687949407, https://leetcode.com/problems/remove-duplicates-from-sorted-array
 333,Largest BST Subtree,35.8%,Medium,0.13138400282910845, https://leetcode.com/problems/largest-bst-subtree
 63,Unique Paths II,34.6%,Medium,0.13103977657747026, https://leetcode.com/problems/unique-paths-ii
-214,Shortest Palindrome,29.8%,Hard,0.13026519483790147, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.13026519483790147, https://leetcode.com/problems/shortest-palindrome
 384,Shuffle an Array,52.8%,Medium,0.12953764257899986, https://leetcode.com/problems/shuffle-an-array
 958,Check Completeness of a Binary Tree,52.1%,Medium,0.12884496089089562, https://leetcode.com/problems/check-completeness-of-a-binary-tree
 612,Shortest Distance in a Plane,59.5%,Medium,0.1271551754852466, https://leetcode.com/problems/shortest-distance-in-a-plane
@@ -236,7 +236,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 407,Trapping Rain Water II,42.4%,Hard,0.10486899438963619, https://leetcode.com/problems/trapping-rain-water-ii
 159,Longest Substring with At Most Two Distinct Characters,49.4%,Medium,0.10453372768183221, https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters
 289,Game of Life,54.5%,Medium,0.10365526175211173, https://leetcode.com/problems/game-of-life
-267,Palindrome Permutation II,36.4%,Medium,0.10345133738802471, https://leetcode.com/problems/palindrome-permutation-ii
+267,start.Palindrome Permutation II,36.4%,Medium,0.10345133738802471, https://leetcode.com/problems/palindrome-permutation-ii
 523,Continuous Subarray Sum,24.6%,Medium,0.1016388887348317, https://leetcode.com/problems/continuous-subarray-sum
 379,Design Phone Directory,46.8%,Medium,0.10135249426028749, https://leetcode.com/problems/design-phone-directory
 979,Distribute Coins in Binary Tree,68.9%,Medium,0.10090468412429855, https://leetcode.com/problems/distribute-coins-in-binary-tree
@@ -334,7 +334,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 205,Isomorphic Strings,39.8%,Easy,0.045397866271290506, https://leetcode.com/problems/isomorphic-strings
 609,Find Duplicate File in System,59.5%,Medium,0.045205436768046794, https://leetcode.com/problems/find-duplicate-file-in-system
 325,Maximum Size Subarray Sum Equals k,46.8%,Medium,0.04495138786226632, https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
-680,Valid Palindrome II,36.6%,Easy,0.04470617503841694, https://leetcode.com/problems/valid-palindrome-ii
+680,Valid start.Palindrome II,36.6%,Easy,0.04470617503841694, https://leetcode.com/problems/valid-palindrome-ii
 489,Robot Room Cleaner,69.7%,Hard,0.04460047988428181, https://leetcode.com/problems/robot-room-cleaner
 349,Intersection of Two Arrays,62.5%,Easy,0.04447549064708117, https://leetcode.com/problems/intersection-of-two-arrays
 895,Maximum Frequency Stack,60.6%,Hard,0.04329680575332419, https://leetcode.com/problems/maximum-frequency-stack
@@ -374,7 +374,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 187,Repeated DNA Sequences,38.9%,Medium,0.03147388037973136, https://leetcode.com/problems/repeated-dna-sequences
 323,Number of Connected Components in an Undirected Graph,56.0%,Medium,0.031399753867979864, https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
 867,Transpose Matrix,62.8%,Easy,0.031179454774354007, https://leetcode.com/problems/transpose-matrix
-131,Palindrome Partitioning,47.5%,Medium,0.03101558050692165, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.03101558050692165, https://leetcode.com/problems/palindrome-partitioning
 575,Distribute Candies,61.4%,Easy,0.030890487019338404, https://leetcode.com/problems/distribute-candies
 6,ZigZag Conversion,36.3%,Medium,0.03049597862981453, https://leetcode.com/problems/zigzag-conversion
 316,Remove Duplicate Letters,35.8%,Hard,0.030443751414723153, https://leetcode.com/problems/remove-duplicate-letters
@@ -419,7 +419,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 399,Evaluate Division,51.6%,Medium,0.019380451549662482, https://leetcode.com/problems/evaluate-division
 674,Longest Continuous Increasing Subsequence,45.9%,Easy,0.01900294712561538, https://leetcode.com/problems/longest-continuous-increasing-subsequence
 1155,Number of Dice Rolls With Target Sum,49.0%,Medium,0.018904154639152678, https://leetcode.com/problems/number-of-dice-rolls-with-target-sum
-9,Palindrome Number,48.4%,Easy,0.018837205580381582, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.018837205580381582, https://leetcode.com/problems/palindrome-number
 787,Cheapest Flights Within K Stops,39.3%,Medium,0.018824085245635554, https://leetcode.com/problems/cheapest-flights-within-k-stops
 1008,Construct Binary Search Tree from Preorder Traversal,78.4%,Medium,0.01844220088035248, https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal
 136,Single Number,65.5%,Easy,0.017801666336826266, https://leetcode.com/problems/single-number

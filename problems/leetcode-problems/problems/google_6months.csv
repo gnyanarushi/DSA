@@ -73,7 +73,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 418,Sentence Screen Fitting,32.6%,Medium,0.19331931100349597, https://leetcode.com/problems/sentence-screen-fitting
 337,House Robber III,50.6%,Medium,0.19252352759743632, https://leetcode.com/problems/house-robber-iii
 900,RLE Iterator,53.5%,Medium,0.1884471502206373, https://leetcode.com/problems/rle-iterator
-1312,Minimum Insertion Steps to Make a String Palindrome,58.1%,Hard,0.1874629562943733, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1312,Minimum Insertion Steps to Make a String start.Palindrome,58.1%,Hard,0.1874629562943733, https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
 792,Number of Matching Subsequences,47.4%,Medium,0.18571714579509285, https://leetcode.com/problems/number-of-matching-subsequences
 840,Magic Squares In Grid,37.3%,Easy,0.18533360726394627, https://leetcode.com/problems/magic-squares-in-grid
 1466,Reorder Routes to Make All Paths Lead to the City Zero,63.5%,Medium,0.18400364297693944, https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
@@ -244,7 +244,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 117,Populating Next Right Pointers in Each Node II,39.1%,Medium,0.025446665661164262, https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
 733,Flood Fill,55.3%,Easy,0.02506396866321625, https://leetcode.com/problems/flood-fill
 941,Valid Mountain Array,33.2%,Easy,0.02489066552578776, https://leetcode.com/problems/valid-mountain-array
-409,Longest Palindrome,50.3%,Easy,0.02486144206532915, https://leetcode.com/problems/longest-palindrome
+409,Longest start.Palindrome,50.3%,Easy,0.02486144206532915, https://leetcode.com/problems/longest-palindrome
 983,Minimum Cost For Tickets,60.5%,Medium,0.02467737809337621, https://leetcode.com/problems/minimum-cost-for-tickets
 836,Rectangle Overlap,48.6%,Easy,0.024228925974379843, https://leetcode.com/problems/rectangle-overlap
 31,Next Permutation,32.6%,Medium,0.023747034562878154, https://leetcode.com/problems/next-permutation
@@ -273,7 +273,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 540,Single Element in a Sorted Array,57.9%,Medium,0.0192128868599912, https://leetcode.com/problems/single-element-in-a-sorted-array
 669,Trim a Binary Search Tree,63.0%,Easy,0.019139340210697423, https://leetcode.com/problems/trim-a-binary-search-tree
 229,Majority Element II,35.6%,Medium,0.019057270410286146, https://leetcode.com/problems/majority-element-ii
-9,Palindrome Number,48.4%,Easy,0.018837205580381582, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.018837205580381582, https://leetcode.com/problems/palindrome-number
 901,Online Stock Span,60.2%,Medium,0.018622512098001826, https://leetcode.com/problems/online-stock-span
 146,LRU Cache,33.2%,Medium,0.01827577993873683, https://leetcode.com/problems/lru-cache
 37,Sudoku Solver,43.6%,Hard,0.01821543989134118, https://leetcode.com/problems/sudoku-solver

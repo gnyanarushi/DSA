@@ -67,7 +67,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 195,Tenth Line,33.0%,Easy,0.1329388000145885, https://leetcode.com/problems/tenth-line
 4,Median of Two Sorted Arrays,29.6%,Hard,0.13162453469432595, https://leetcode.com/problems/median-of-two-sorted-arrays
 3,Longest Substring Without Repeating Characters,30.4%,Medium,0.13147131860020772, https://leetcode.com/problems/longest-substring-without-repeating-characters
-214,Shortest Palindrome,29.8%,Hard,0.13026519483790147, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.13026519483790147, https://leetcode.com/problems/shortest-palindrome
 958,Check Completeness of a Binary Tree,52.1%,Medium,0.12884496089089562, https://leetcode.com/problems/check-completeness-of-a-binary-tree
 694,Number of Distinct Islands,56.0%,Medium,0.12516314295400602, https://leetcode.com/problems/number-of-distinct-islands
 163,Missing Ranges,24.3%,Medium,0.11821867060119497, https://leetcode.com/problems/missing-ranges
@@ -131,7 +131,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 695,Max Area of Island,62.7%,Medium,0.04980799142417255, https://leetcode.com/problems/max-area-of-island
 518,Coin Change 2,50.2%,Medium,0.04919528672454412, https://leetcode.com/problems/coin-change-2
 445,Add Two Numbers II,54.5%,Medium,0.04843561709959499, https://leetcode.com/problems/add-two-numbers-ii
-125,Valid Palindrome,36.7%,Easy,0.047702249651065814, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.047702249651065814, https://leetcode.com/problems/valid-palindrome
 876,Middle of the Linked List,68.4%,Easy,0.046728740327781716, https://leetcode.com/problems/middle-of-the-linked-list
 240,Search a 2D Matrix II,43.2%,Medium,0.04647676584572884, https://leetcode.com/problems/search-a-2d-matrix-ii
 283,Move Zeroes,57.8%,Easy,0.04519585811312136, https://leetcode.com/problems/move-zeroes
@@ -178,7 +178,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 221,Maximal Square,37.7%,Medium,0.022108490754203434, https://leetcode.com/problems/maximal-square
 112,Path Sum,41.2%,Easy,0.021701651897460775, https://leetcode.com/problems/path-sum
 300,Longest Increasing Subsequence,42.6%,Medium,0.020893943681912164, https://leetcode.com/problems/longest-increasing-subsequence
-9,Palindrome Number,48.4%,Easy,0.018837205580381582, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.018837205580381582, https://leetcode.com/problems/palindrome-number
 88,Merge Sorted Array,39.4%,Easy,0.018667009593356397, https://leetcode.com/problems/merge-sorted-array
 617,Merge Two Binary Trees,74.1%,Easy,0.018496211633622316, https://leetcode.com/problems/merge-two-binary-trees
 239,Sliding Window Maximum,43.0%,Hard,0.01768566434627554, https://leetcode.com/problems/sliding-window-maximum

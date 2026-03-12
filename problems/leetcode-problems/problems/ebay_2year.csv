@@ -51,7 +51,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 240,Search a 2D Matrix II,43.2%,Medium,0.0169815401480941, https://leetcode.com/problems/search-a-2d-matrix-ii
 658,Find K Closest Elements,40.9%,Medium,0.016611677666896175, https://leetcode.com/problems/find-k-closest-elements
 10,Regular Expression Matching,26.8%,Hard,0.01609764684284749, https://leetcode.com/problems/regular-expression-matching
-125,Valid Palindrome,36.7%,Easy,0.01582781088607703, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.01582781088607703, https://leetcode.com/problems/valid-palindrome
 977,Squares of a Sorted Array,72.1%,Easy,0.015474196582597383, https://leetcode.com/problems/squares-of-a-sorted-array
 103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,0.015272005981326173, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 153,Find Minimum in Rotated Sorted Array,45.1%,Medium,0.014939586916186732, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array

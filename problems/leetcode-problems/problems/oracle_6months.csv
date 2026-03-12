@@ -45,7 +45,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 347,Top K Frequent Elements,61.2%,Medium,0.009249390740121013, https://leetcode.com/problems/top-k-frequent-elements
 5,Longest Palindromic Substring,29.5%,Medium,0.009086325220960808, https://leetcode.com/problems/longest-palindromic-substring
 21,Merge Two Sorted Lists,53.5%,Easy,0.008990339814651234, https://leetcode.com/problems/merge-two-sorted-lists
-125,Valid Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
 15,3Sum,26.8%,Medium,0.00876717944353383, https://leetcode.com/problems/3sum
 139,Word Break,40.1%,Medium,0.008741314401573542, https://leetcode.com/problems/word-break
 173,Binary Search Tree Iterator,56.6%,Medium,0.008489015324911316, https://leetcode.com/problems/binary-search-tree-iterator

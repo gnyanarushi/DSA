@@ -31,7 +31,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 31,Next Permutation,32.6%,Medium,0.09178119886142269, https://leetcode.com/problems/next-permutation
 929,Unique Email Addresses,67.4%,Easy,0.09107126584446965, https://leetcode.com/problems/unique-email-addresses
 11,Container With Most Water,50.8%,Medium,0.08887230664829432, https://leetcode.com/problems/container-with-most-water
-214,Shortest Palindrome,29.8%,Hard,0.0753494372417868, https://leetcode.com/problems/shortest-palindrome
+214,Shortest start.Palindrome,29.8%,Hard,0.0753494372417868, https://leetcode.com/problems/shortest-palindrome
 76,Minimum Window Substring,34.6%,Hard,0.07378420845373558, https://leetcode.com/problems/minimum-window-substring
 987,Vertical Order Traversal of a Binary Tree,36.6%,Medium,0.070392125446596, https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
 1114,Print in Order,65.7%,Easy,0.0700675626167169, https://leetcode.com/problems/print-in-order
@@ -101,7 +101,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 617,Merge Two Binary Trees,74.1%,Easy,0.03264929866766111, https://leetcode.com/problems/merge-two-binary-trees
 48,Rotate Image,56.7%,Medium,0.03142936253029228, https://leetcode.com/problems/rotate-image
 239,Sliding Window Maximum,43.0%,Hard,0.031228142547585713, https://leetcode.com/problems/sliding-window-maximum
-131,Palindrome Partitioning,47.5%,Medium,0.03101558050692165, https://leetcode.com/problems/palindrome-partitioning
+131,start.Palindrome Partitioning,47.5%,Medium,0.03101558050692165, https://leetcode.com/problems/palindrome-partitioning
 55,Jump Game,34.6%,Medium,0.030985252381807864, https://leetcode.com/problems/jump-game
 460,LFU Cache,34.2%,Hard,0.030962225603966897, https://leetcode.com/problems/lfu-cache
 44,Wildcard Matching,24.7%,Hard,0.030573033362282363, https://leetcode.com/problems/wildcard-matching
@@ -147,7 +147,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 169,Majority Element,58.7%,Easy,0.018694317054881164, https://leetcode.com/problems/majority-element
 235,Lowest Common Ancestor of a Binary Search Tree,49.9%,Easy,0.018394142155974434, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 197,Rising Temperature,38.4%,Easy,0.018198864417406563, https://leetcode.com/problems/rising-temperature
-234,Palindrome Linked List,39.3%,Easy,0.01801241989645556, https://leetcode.com/problems/palindrome-linked-list
+234,start.Palindrome Linked List,39.3%,Easy,0.01801241989645556, https://leetcode.com/problems/palindrome-linked-list
 314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.018010392274465332, https://leetcode.com/problems/binary-tree-vertical-order-traversal
 136,Single Number,65.5%,Easy,0.017801666336826266, https://leetcode.com/problems/single-number
 993,Cousins in Binary Tree,52.0%,Easy,0.017414458368636587, https://leetcode.com/problems/cousins-in-binary-tree
@@ -195,7 +195,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 387,First Unique Character in a String,53.4%,Easy,0.009392680199054166, https://leetcode.com/problems/first-unique-character-in-a-string
 128,Longest Consecutive Sequence,45.1%,Hard,0.009051883485315484, https://leetcode.com/problems/longest-consecutive-sequence
 295,Find Median from Data Stream,44.3%,Hard,0.00899893586856953, https://leetcode.com/problems/find-median-from-data-stream
-125,Valid Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
 700,Search in a Binary Search Tree,73.1%,Easy,0.008512500860171227, https://leetcode.com/problems/search-in-a-binary-search-tree
 84,Largest Rectangle in Histogram,35.2%,Hard,0.00833685528906183, https://leetcode.com/problems/largest-rectangle-in-histogram
 102,Binary Tree Level Order Traversal,54.6%,Medium,0.008169238497129479, https://leetcode.com/problems/binary-tree-level-order-traversal
@@ -210,7 +210,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 412,Fizz Buzz,62.3%,Easy,0.007165921026143679, https://leetcode.com/problems/fizz-buzz
 1365,How Many Numbers Are Smaller Than the Current Number,85.6%,Easy,0.007109877088701047, https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
 73,Set Matrix Zeroes,43.1%,Medium,0.0070151111959223245, https://leetcode.com/problems/set-matrix-zeroes
-9,Palindrome Number,48.4%,Easy,0.006822343017166543, https://leetcode.com/problems/palindrome-number
+9,start.Palindrome Number,48.4%,Easy,0.006822343017166543, https://leetcode.com/problems/palindrome-number
 118,Pascal's Triangle,52.5%,Easy,0.006749941254175012, https://leetcode.com/problems/pascals-triangle
 67,Add Binary,45.2%,Easy,0.006631598888145552, https://leetcode.com/problems/add-binary
 83,Remove Duplicates from Sorted List,45.4%,Easy,0.006353261522609498, https://leetcode.com/problems/remove-duplicates-from-sorted-list

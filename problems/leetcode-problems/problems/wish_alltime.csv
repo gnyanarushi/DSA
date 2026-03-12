@@ -25,7 +25,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 41,First Missing Positive,32.0%,Hard,0.014368063266920193, https://leetcode.com/problems/first-missing-positive
 1,Two Sum,45.6%,Easy,0.013049691753224608, https://leetcode.com/problems/two-sum
 172,Factorial Trailing Zeroes,37.8%,Easy,0.012326812480658571, https://leetcode.com/problems/factorial-trailing-zeroes
-125,Valid Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
+125,Valid start.Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
 207,Course Schedule,43.1%,Medium,0.004964021114211758, https://leetcode.com/problems/course-schedule
 560,Subarray Sum Equals K,43.9%,Medium,0.004279454482267064, https://leetcode.com/problems/subarray-sum-equals-k
 2,Add Two Numbers,33.9%,Medium,0.0016886191111440908, https://leetcode.com/problems/add-two-numbers
