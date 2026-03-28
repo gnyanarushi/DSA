@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicMath/BasicMath.iml" filepath="$PROJECT_DIR$/BasicMath/BasicMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blind75/Blind75.iml" filepath="$PROJECT_DIR$/Blind75/Blind75.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/problems/patternprinting/patternprinting.iml" filepath="$PROJECT_DIR$/problems/patternprinting/patternprinting.iml" />
