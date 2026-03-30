@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BasicMath/BasicMath.iml" filepath="$PROJECT_DIR$/BasicMath/BasicMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blind75/Blind75.iml" filepath="$PROJECT_DIR$/Blind75/Blind75.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/patternprinting/patternprinting.iml" filepath="$PROJECT_DIR$/patternprinting/patternprinting.iml" />
     </modules>
   </component>
