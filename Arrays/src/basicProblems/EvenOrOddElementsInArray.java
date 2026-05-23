@@ -1,4 +1,4 @@
-package arrays;
+package basicProblems;
 
 public class EvenOrOddElementsInArray {
 

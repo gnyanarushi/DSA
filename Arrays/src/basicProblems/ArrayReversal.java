@@ -1,3 +1,5 @@
+package basicProblems;
+
 import java.util.Arrays;
 
 public class ArrayReversal {
