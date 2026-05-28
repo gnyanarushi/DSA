@@ -21,7 +21,7 @@ public class ArraysAndStringInRecursion {
     public static void main(String[] args) {
         int[] arr = {1 ,4 , 6, 5 , 2, 3 };
 
-        String s = "rishi";
+        String s = "madam";
 
         System.out.println("Original Array : "+ Arrays.toString(arr));
         reverse(arr , 0 , arr.length);
