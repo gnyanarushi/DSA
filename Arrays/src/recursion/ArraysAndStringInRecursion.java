@@ -21,14 +21,25 @@ public class ArraysAndStringInRecursion {
     public static void main(String[] args) {
         int[] arr = {1 ,4 , 6, 5 , 2, 3 };
 
-        String s = "madam";
+        String s = "rishi";
 
         System.out.println("Original Array : "+ Arrays.toString(arr));
         reverse(arr , 0 , arr.length);
         System.out.println("Reversed Array : "+Arrays.toString(arr));
 
-//        System.out.println(isPalindrome(s , 0 ) ?  "Palindrome " : "Not Palindrome ");
+        System.out.println(isPalindrome(s , 0 , s.length() ) ?  "Palindrome " : "Not Palindrome ");
 
+    }
+
+
+    public static boolean  isPalindrome(String s , int i , int n ){
+        if(i >= n / 2 ){
+            return true;
+        }
+        if(s.charAt(i) != s.charAt(n - i - 1 )){
+            return false;
+        }
+       return  isPalindrome(s , i + 1 , n ) ;
     }
 
 
