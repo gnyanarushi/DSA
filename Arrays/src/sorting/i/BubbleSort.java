@@ -1,6 +1,5 @@
-package sorting;
+package sorting.i;
 
-import javax.imageio.plugins.tiff.TIFFDirectory;
 import java.util.Arrays;
 
 public class BubbleSort {
