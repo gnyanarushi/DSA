@@ -1,0 +1,26 @@
+package striverSheet.easy;
+
+import java.util.Arrays;
+
+public class RotateArrayByK {
+    public static void main(String[] args) {
+
+        int[] arr = { 1, 2 ,3, 4 , 5, 6, 7 , };
+        System.out.println(arr.length);
+        int k  = 3;
+
+        rotate(arr , k ) ;
+
+        System.out.println(Arrays.toString(arr));
+    }
+
+    public  static  void rotate(int[] arr , int k ){
+        int[] temp = new int[k];
+
+        for(int i = 0; i < k ; i++ ){
+            temp[i] = arr[i];
+        }
+
+
+    }
+}
