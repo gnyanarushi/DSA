@@ -21,6 +21,10 @@ public class RotateArrayByK {
             temp[i] = arr[i];
         }
 
+/*
+*
+*
+* */
 
     }
 }
