@@ -1,4 +1,4 @@
-package jun17;
+package june.jun17;
 
 public class ProcessStringWithSpecialOperations {
     public static void main(String[] args) {

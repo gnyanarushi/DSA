@@ -1,4 +1,4 @@
-package jun19;
+package june.jun19;
 
 public class DeleteNodeInLinkedList {
 
