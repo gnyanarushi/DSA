@@ -19,6 +19,31 @@ public class SingleLinkedList {
         }
     }
 
+    public void insertAtEnd(int data){
+        Node node = new Node(data);
+        if(tail == null){
+            head = node;
+            tail = node;
+        }
+        tail.next = node;
+        tail = node;
+        size++;
+    }
+
+
+
+    public void insertAtStart(int data){
+        Node node = new Node(data);
+        if(head == null){
+            head = node;
+            tail = node ;
+
+        }
+        node.next = head;
+        head = node;
+        size++;
+    }
+
     public void insertElement(int data){
         Node newNode = new Node(data);
         if(head == null){
@@ -33,6 +58,7 @@ public class SingleLinkedList {
         size++;
     }
 
+
     public void printList(){
 
         if(head == null ){
@@ -40,7 +66,7 @@ public class SingleLinkedList {
         }
         else {
             Node temp = head;
-            while (temp != null ){
+            while (true){
                 System.out.print(" " + temp.data + " --> ");
                 temp = temp.next;
                 if(temp.next == null){
@@ -49,6 +75,8 @@ public class SingleLinkedList {
                 }
             }
         }
+
+        System.out.println();
     }
 
 
