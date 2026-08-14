@@ -1,4 +1,4 @@
-package august.aug2.animalExample;
+package august.aug2FIleIOStreams.animalExample;
 
 public class BoundedWildCard {
     public void vitality(AnimalWorld<?> animals){

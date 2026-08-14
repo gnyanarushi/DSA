@@ -1,9 +1,7 @@
-package august.aug2.iostreams;
+package august.aug2FIleIOStreams.iostreams;
 
 import java.io.*;
-import java.nio.Buffer;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Main {
 

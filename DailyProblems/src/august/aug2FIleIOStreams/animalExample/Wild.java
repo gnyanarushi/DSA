@@ -1,4 +1,4 @@
-package august.aug2.animalExample;
+package august.aug2FIleIOStreams.animalExample;
 
 public class Wild extends Land{
     float speed ;
